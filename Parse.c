@@ -16,7 +16,7 @@ int main(void){
 	str1=NULL;
 	str2=NULL;
 	str3=NULL;
-	while(((ch=fgetc(fin))!=EOF) && ch!='\n');
+	//while(((ch=fgetc(fin))!=EOF) && ch!='\n');
 	while(((ch=fgetc(fin))!=EOF)){
 		if(ch=='\n'){
 			fprintf(fout, "(%d,%d,%d);(%s,%s,%s)\n", 

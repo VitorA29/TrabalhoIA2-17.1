@@ -1,3 +1,4 @@
+(6,8,5);(Entity,Relation,Value)
 (7,24,11);(insects,animalsuchasinvertebrate,butterflies)
 (6,34,4);(states,statelocatedingeopoliticallocation,home)
 (15,36,6);(the_philippines,countrylocatedingeopoliticallocation,states)
