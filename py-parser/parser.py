@@ -16,6 +16,12 @@ def main():
     kb_file_neg = open(OUTPUT_NEG, 'w')
     cprint("Creating " + OUTPUT_REL + "...", 'b')
     kb_file_rel =  open(OUTPUT_REL, 'w')
+    i=0
+    j=0
+    k=0
+    dicN={}
+    dicP={}
+    dicR={}
     with open(INPUT, newline='') as csvfile:
         data = csv.DictReader(csvfile)      
         for row in data:
@@ -28,13 +34,15 @@ def main():
                     else:
                         clause = clause + "(" + row["Entity"] + "," + row["Value"] + ").\n"
                     cprint(clause, 'r')
-                    kb_file_neg.write(clause)
+		    dicN.add(i++, clause)
+                    #kb_file_neg.write(clause)
 
             elif(row["Action"][0] == "y"):
                 if(row["Relation"] == "generalizations"):
                     clause = row["Action"][1:] + "(" + row["Entity"] + ").\n"
                     cprint(clause, 'y')
-                    kb_file_pos.write(clause)
+		    dicP.add(j++, clause)
+                    #kb_file_pos.write(clause)
                 else:
                     #facts
                     clause = row["Action"].split(",")[2]
@@ -45,11 +53,13 @@ def main():
                     else:
                         clause = clause + "(" + row["Value"] + ").\n"
                     cprint(clause, 'y')
-                    kb_file_pos.write(clause)
+		    dicP.add(j++, clause)
+                    #kb_file_pos.write(clause)
                     
                     clause = row["Action"].split(",")[1] + "(" + row["Entity"] + ").\n"
                     cprint(clause, 'y')
-                    kb_file_pos.write(clause)
+		    dicP.add(j++, clause)
+                    #kb_file_pos.write(clause)
                     
                     #relations
                     clause = row["Relation"]
@@ -58,9 +68,19 @@ def main():
                     else:
                         clause = clause + "(" + row["Entity"] + "," + row["Value"] + ").\n"
                     cprint(clause, 'y')
-                    kb_file_rel.write(clause)
+		    dicR.add(k++, clause)
+                    #kb_file_rel.write(clause)
             else: continue
         
+        lista = dicP.values()
+	for clause in lista:
+		kkb_file_pos.write(clause)
+	lista = dicR.values()
+	for clause in lista:
+		kkb_file_rel.write(clause)
+	lista = dicN.values()
+	for clause in lista:
+		kkb_file_neg.write(clause)
         kb_file_pos.close()
         kb_file_rel.close()     
         kb_file_neg.close()
