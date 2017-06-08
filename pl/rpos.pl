@@ -2,6 +2,7 @@ animalsuchasinvertebrate(insects,butterflies).
 statelocatedingeopoliticallocation(states,home).
 animaleatfood(baby,breastmilk).
 citycapitalofcountry(nassau,bahamas).
+citycapitalofcountry(amsterdam,holland).
 agentparticipatedinevent(ideas,result).
 foodcancausedisease(junk_food,heart_attacks).
 attractionofcity(hallenstadion,zurich).

@@ -1,7 +1,7 @@
 :- \+countrylocatedingeopoliticallocation(the_philippines,states).
 :- \+animaleatfood(baby,chunkier_foods).
 :- \+animaleatfood(baby,finger_foods).
-:- \+haswikipediaurl(river_dart,//en.wikipedia.org/wiki/River%20Dart).
+:- \+haswikipediaurl(river_dart,'//en.wikipedia.org/wiki/River%20Dart').
 :- \+synonymfor(armistice_day,remembrance_day).
 :- \+sportusesequipment(tennis,performance).
 :- \+sportusesequipment(tennis,performance).
@@ -319,7 +319,7 @@
 :- \+agriculturalproductcookedwithagriculturalproduct(brown_sugar,chicken).
 :- \+agriculturalproductincludingagriculturalproduct(products,margarine).
 :- \+professionistypeofprofession(workers,doctor).
-:- \+haswikipediaurl(colt_45,//en.wikipedia.org/wiki/Colt%2045%20(malt%20liquor)).
+:- \+haswikipediaurl(colt_45,'//en.wikipedia.org/wiki/Colt%2045%20(malt%20liquor)').
 :- \+beveragecontainsprotein(juice,proteins).
 :- \+personhasjobposition(charles,king).
 :- \+agriculturalproductgrowinginstateorprovince(orange,kansas).
@@ -344,7 +344,7 @@
 :- \+beveragemadefrombeverage(egg,peel).
 :- \+hospitalincity(presbyterian,charlotte).
 :- \+buildinglocatedincity(detroit_metropolitan_wayne_county,detroit).
-:- \+haswikipediaurl(tuntutuliak_airport,//en.wikipedia.org/wiki/Tuntutuliak%20Airport).
+:- \+haswikipediaurl(tuntutuliak_airport,'//en.wikipedia.org/wiki/Tuntutuliak%20Airport').
 :- \+parkincity(leicester_square,london).
 :- \+riveremptiesintoriver(mississippi,arkansas_river).
 :- \+sportusesequipment(adventure,equipment).
