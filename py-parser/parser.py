@@ -6,22 +6,23 @@ from color_print import cprint
     
 def main():
     INPUT = sys.argv[1]
-    OUTPUT_FPOS = sys.argv[2]
-    OUTPUT_RPOS = sys.argv[3]
-    OUTPUT_FNEG = sys.argv[4]
-    OUTPUT_RNEG = sys.argv[5]
+    OUTPUT = sys.argv[1]
+    OUTPUT_FPOS = "fpos.pl"
+    OUTPUT_RPOS = "rpos.pl"
+    OUTPUT_FNEG = "fneg.pl"
+    OUTPUT_RNEG = "rneg.pl"
     
     cprint("Reading " + INPUT + "...", 'b')
     
     cprint("Creating " + OUTPUT_FPOS + "...", 'b')
-    kb_file_fpos =  open(OUTPUT_FPOS, 'w')
+    kb_file_fpos =  open(OUTPUT_FPOS, 'a')
     cprint("Creating " + OUTPUT_RPOS + "...", 'b')
-    kb_file_rpos =  open(OUTPUT_RPOS, 'w')
+    kb_file_rpos =  open(OUTPUT_RPOS, 'a')
  
     cprint("Creating " + OUTPUT_FNEG + "...", 'b')
-    kb_file_fneg = open(OUTPUT_FNEG, 'w')
+    kb_file_fneg = open(OUTPUT_FNEG, 'a')
     cprint("Creating " + OUTPUT_RNEG + "...", 'b')
-    kb_file_rneg =  open(OUTPUT_RNEG, 'w')
+    kb_file_rneg =  open(OUTPUT_RNEG, 'a')
     
     with open(INPUT, newline='') as csvfile:
         data = csv.DictReader(csvfile)      
