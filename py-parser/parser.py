@@ -25,7 +25,7 @@ def main():
     kb_file_rneg =  open(OUTPUT_RNEG, 'a')
     
     with open(INPUT, newline='') as csvfile:
-        data = csv.DictReader(csvfile)      
+        data = csv.DictReader(csvfile)
         for row in data:
             if(row["Action"][0] == "n"): #neg relations
                 if(row["Relation"] == "generalizations"):

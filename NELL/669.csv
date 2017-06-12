@@ -1,389 +1,389 @@
-"Entity"	"Relation"	"Action"	"Value"	"Iteration of Promotion"	"Action Source"	"Action Date"
-"rugby"	"sportschoolincountry"	"ysportfansincountry,sport,country"	"argentina"	"667"	"anonymous-f324290b-7c35c16f-0f5cd718"	"2012-09-18T00:58:49-04:00"
-"spanish"	"languageofcountry"	"nlanguageofcity,language,city"	"tucson"	"215"	"anonymous-fa6288e6-93b87bf5-a918d6dd"	"2012-09-12T11:48:35-04:00"
-"midges"	"animalsuchasinvertebrate"	"nanimalsuchasinsect,animal,insect"	"insects"	"667"	"anonymous-c7543bdd-baf66d4f-fed27e92"	"2012-11-21T14:36:30-05:00"
-"tarantulas"	"arthropodandotherarthropod"	"yarthropodcalledarthropod,arthropod,arthropod"	"spiders"	"556"	"anonymous-90709515-348688ba-0f5cd718"	"2012-08-19T16:08:31-04:00"
-"spiders"	"arthropodandotherarthropod"	"narthropodcalledarthropod,arthropod,arthropod"	"black_widow_spiders"	"667"	"anonymous-5aa1750e-aa82da29-2843fab5"	"2012-10-29T20:48:28-04:00"
-"tokyo"	"citycapitalofcountry"	"ycitylocatedincountry,city,country"	"japan"	"667"	"anonymous-fb7e332b-d285565f-0f5cd718"	"2012-09-09T12:28:52-04:00"
-"hiroshima"	"citycapitalofcountry"	"ycitylocatedincountry,city,country"	"japan"	"667"	"anonymous-25628de8-0f00b332-0f5cd718"	"2012-09-12T13:01:52-04:00"
-"hiroshima"	"citycapitalofcountry"	"ycitylocatedincountry,city,country"	"japan"	"667"	"anonymous-416cc61c-29aba0f4-0f5cd718"	"2012-09-13T21:26:48-04:00"
-"algiers"	"citycapitalofcountry"	"ycountrycities,country,country"	"algeria"	"667"	"anonymous-73c6ab72-dc132ab6-7d86234c"	"2012-10-02T10:10:48-04:00"
-"mary"	"parentofperson"	"ymotherofperson,female,person"	"jesus_christ"	"665"	"anonymous-8a1eec79-43f95efe-3692a0bb"	"2012-09-15T12:39:10-04:00"
-"beds"	"itemfoundinroom"	"yroomcancontainfurniture,room,room"	"smoking_room"	"665"	"anonymous-491d0a40-3fc8fb8d-21eb23ed"	"2012-07-19T13:42:39-04:00"
-"beds"	"itemfoundinroom"	"yfurniturefoundinroom,furniture,room"	"bunk_bed"	"622"	"anonymous-90709515-348688ba-0f5cd718"	"2012-08-19T15:41:30-04:00"
-"beds"	"itemfoundinroom"	"yfurniturefoundinroom,furniture,room"	"porch"	"665"	"anonymous-e9f72a31-3afd7b16-0f5cd718"	"2012-08-24T01:11:06-04:00"
-"beds"	"itemfoundinroom"	"yfurniturefoundinroom,furniture,room"	"apartment"	"623"	"anonymous-e9f72a31-3afd7b16-0f5cd718"	"2012-08-24T01:25:33-04:00"
-"beds"	"itemfoundinroom"	"nfurniturefoundinroom,furniture,room"	"baths"	"625"	"anonymous-fb7e332b-d285565f-0f5cd718"	"2012-09-09T12:24:54-04:00"
-"beds"	"itemfoundinroom"	"-itemfoundinroom,,"	"baths"	"625"	"bkisiel"	"2012-12-10T15:11:17-05:00"
-"beds"	"itemfoundinroom"	"-itemfoundinroom,furniture,room"	"baths"	"625"	"bkisiel"	"2012-12-10T15:11:17-05:00"
-"beds"	"itemfoundinroom"	"yfurniturefoundinroom,furniture,room"	"studio_rooms"	"275"	"anonymous-575b516a-30123184-e31bf044"	"2012-09-16T12:08:32-04:00"
-"beds"	"itemfoundinroom"	"yfurniturefoundinroom,furniture,room"	"dorm_room"	"634"	"anonymous-db090d85-715e45bd-0f5cd718"	"2012-09-16T21:17:08-04:00"
-"sleeper_sofa"	"itemfoundinroom"	"nfurniturefoundinroom,furniture,room"	"area"	"262"	"anonymous-90709515-348688ba-0f5cd718"	"2012-08-19T16:16:45-04:00"
-"size_sofa_bed"	"itemfoundinroom"	"nfurniturefoundinroom,furniture,room"	"area"	"302"	"anonymous-e9f72a31-3afd7b16-0f5cd718"	"2012-08-24T01:35:14-04:00"
-"size_sofa_bed"	"itemfoundinroom"	"-1furniture"	"area"	"302"	"bkisiel"	"2012-12-10T15:11:13-05:00"
-"size_sofa_bed"	"itemfoundinroom"	"-itemfoundinroom,,"	"area"	"302"	"bkisiel"	"2012-12-10T15:11:14-05:00"
-"size_sofa_bed"	"itemfoundinroom"	"-itemfoundinroom,furniture,room"	"area"	"302"	"bkisiel"	"2012-12-10T15:11:14-05:00"
-"bed"	"itemfoundinroom"	"yroomcancontainfurniture,room,room"	"smoking_room"	"289"	"anonymous-491d0a40-3fc8fb8d-21eb23ed"	"2012-07-19T13:42:40-04:00"
-"bed"	"itemfoundinroom"	"nfurniturefoundinroom,furniture,room"	"porch"	"616"	"anonymous-879b150b-72cc26fc-0f5cd718"	"2012-08-22T01:13:22-04:00"
-"bed"	"itemfoundinroom"	"nfurniturefoundinroom,furniture,room"	"front_room"	"263"	"anonymous-7013540c-25ecdff2-0f5cd718"	"2012-08-26T23:00:42-04:00"
-"bed"	"itemfoundinroom"	"nfurniturefoundinroom,furniture,room"	"master"	"262"	"anonymous-12c765c5-9d0d1654-0f5cd718"	"2012-09-01T01:05:03-04:00"
-"bed"	"itemfoundinroom"	"nfurniturefoundinroom,furniture,room"	"master"	"262"	"anonymous-3ed3d9da-84e61946-0f5cd718"	"2012-09-02T00:37:41-04:00"
-"bed"	"itemfoundinroom"	"yfurniturefoundinroom,furniture,room"	"property"	"299"	"anonymous-3ed3d9da-84e61946-0f5cd718"	"2012-09-02T01:04:43-04:00"
-"size"	"itemfoundinroom"	"nfurniturefoundinroom,furniture,room"	"guest_room"	"313"	"anonymous-fb7e332b-d285565f-0f5cd718"	"2012-09-09T12:28:31-04:00"
-"steven_ballmer"	"worksfor"	"yceoof,ceo,company"	"microsoft"	"209"	"anonymous-7943fe77-1dd949ac-e744ac17"	"2012-11-28T17:32:20-05:00"
-"three_rivers_stadium"	"attractionofcity"	"ybuildinglocatedincity,building,city"	"pittsburgh"	"667"	"anonymous-ff8bba2c-4140b3c6-b7c6eb12"	"2012-11-03T03:39:10-04:00"
-"andrew_young"	"personleadsgeopoliticalorganization"	"ypersonleadscity,politician,city"	"atlanta"	"667"	"anonymous-4be61fe5-0f5ccc19-c7b248db"	"2012-09-24T08:12:54-04:00"
-"kurt_warner"	"personbelongstoorganization"	"yathleteplaysinleague,athlete,sportsleague"	"nfl"	"667"	"anonymous-2236d8b2-5365052c-971284cf"	"2012-11-20T20:08:15-05:00"
-"kingdome"	"stadiumlocatedincity"	"yattractionofcity,attraction,city"	"seattle"	"667"	"anonymous-5b3de3e7-142a5cdc-971284cf"	"2012-11-29T14:07:00-05:00"
-"advise_and_consent"	"bookwriter"	"nbookwriter,book,writer"	"allen_drury"	"599"	"anonymous-72c28a40-859f56b8-0f5cd718"	"2012-12-08T13:08:37-05:00"
-"longwood"	"citylocatedinstate"	"ycitylocatedinstate,city,stateorprovince"	"florida"	"667"	"anonymous-00d38786-a86fcef7-64c08ed9"	"2012-12-08T15:26:39-05:00"
-"chris_gethard"	"haswikipediaurl"	"yhaswikipediaurl,male,http"	"//en.wikipedia.org/wiki/Chris%20Gethard"	"656"	"anonymous-6d569e0f-e542ad65-42facfce"	"2012-12-08T15:29:29-05:00"
-"training"	"subpartof"	"nsubpartof,everypromotedthing,everypromotedthing"	"water"	"661"	"anonymous-278db3f4-4089351f-242af1a5"	"2012-12-09T01:32:03-05:00"
-"training"	"subpartof"	"-subpartof,,"	"water"	"661"	"bkisiel"	"2012-12-10T15:09:44-05:00"
-"training"	"subpartof"	"-subpartof,physicalaction,weatherphenomenon"	"water"	"661"	"bkisiel"	"2012-12-10T15:09:44-05:00"
-"a_fall_of_moondust"	"bookwriter"	"ybookwriter,book,writer"	"arthur_c__clarke"	"587"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:32:54-05:00"
-"a_fall_of_moondust"	"haswikipediaurl"	"yhaswikipediaurl,book,http"	"//en.wikipedia.org/wiki/A%20Fall%20of%20Moondust"	"653"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:34:02-05:00"
-"scotland_today"	"haswikipediaurl"	"yhaswikipediaurl,televisionshow,http"	"//en.wikipedia.org/wiki/Scotland%20Today"	"655"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:35:18-05:00"
-"long_way_round"	"haswikipediaurl"	"yhaswikipediaurl,televisionshow,http"	"//en.wikipedia.org/wiki/Long%20Way%20Round"	"655"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:36:49-05:00"
-"the_venturers"	"haswikipediaurl"	"yhaswikipediaurl,televisionshow,http"	"//en.wikipedia.org/wiki/The%20Venturers"	"653"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:39:04-05:00"
-"the_pallisers"	"haswikipediaurl"	"yhaswikipediaurl,televisionshow,http"	"//en.wikipedia.org/wiki/The%20Pallisers"	"655"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:41:06-05:00"
-"the_brain_drain"	"haswikipediaurl"	"yhaswikipediaurl,televisionshow,http"	"//en.wikipedia.org/wiki/The%20Brain%20Drain"	"655"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:42:35-05:00"
-"the_nfl_today"	"haswikipediaurl"	"yhaswikipediaurl,televisionshow,http"	"//en.wikipedia.org/wiki/The%20NFL%20Today"	"655"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:45:06-05:00"
-"the_young_lawyers"	"haswikipediaurl"	"yhaswikipediaurl,televisionshow,http"	"//en.wikipedia.org/wiki/The%20Young%20Lawyers"	"653"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:46:08-05:00"
-"the_othersiders"	"haswikipediaurl"	"yhaswikipediaurl,televisionshow,http"	"//en.wikipedia.org/wiki/The%20Othersiders"	"655"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:48:24-05:00"
-"states"	"statelocatedingeopoliticallocation"	"ngeopoliticallocationcontainsstate,county,county"	"state"	"622"	"anonymous-a58779e5-0d58224e-f6e7d06e"	"2012-12-09T16:38:27-05:00"
-"states"	"statelocatedingeopoliticallocation"	"-statelocatedingeopoliticallocation,,"	"state"	"622"	"bkisiel"	"2012-12-10T15:09:40-05:00"
-"states"	"statelocatedingeopoliticallocation"	"-statelocatedingeopoliticallocation,stateorprovince,county"	"state"	"622"	"bkisiel"	"2012-12-10T15:09:40-05:00"
-"american"	"personhasresidenceingeopoliticallocation"	"ngeopoliticallocationresidenceofpersion,county,county"	"state"	"649"	"anonymous-a58779e5-0d58224e-f6e7d06e"	"2012-12-09T16:38:29-05:00"
-"american"	"personhasresidenceingeopoliticallocation"	"-1astronaut"	"state"	"649"	"bkisiel"	"2012-12-10T15:09:32-05:00"
-"american"	"personhasresidenceingeopoliticallocation"	"-personhasresidenceingeopoliticallocation,,"	"state"	"649"	"bkisiel"	"2012-12-10T15:09:34-05:00"
-"american"	"personhasresidenceingeopoliticallocation"	"-personhasresidenceingeopoliticallocation,astronaut,county"	"state"	"649"	"bkisiel"	"2012-12-10T15:09:34-05:00"
-"rendell"	"personhasresidenceingeopoliticallocation"	"ngeopoliticallocationresidenceofpersion,county,county"	"state"	"641"	"anonymous-a58779e5-0d58224e-f6e7d06e"	"2012-12-09T16:38:33-05:00"
-"rendell"	"personhasresidenceingeopoliticallocation"	"-personhasresidenceingeopoliticallocation,,"	"state"	"641"	"bkisiel"	"2012-12-10T15:11:36-05:00"
-"rendell"	"personhasresidenceingeopoliticallocation"	"-personhasresidenceingeopoliticallocation,male,county"	"state"	"641"	"bkisiel"	"2012-12-10T15:11:36-05:00"
-"garage_door"	"buildingfeaturemadefrombuildingmaterial"	"nbuildingfeaturemadefrombuildingmaterial,buildingfeature,buildingmaterial"	"roller"	"665"	"anonymous-a58779e5-0d58224e-f6e7d06e"	"2012-12-09T16:39:32-05:00"
-"connecticut"	"istallerthan"	"nistallerthan,everypromotedthing,everypromotedthing"	"people"	"667"	"anonymous-a58779e5-0d58224e-f6e7d06e"	"2012-12-09T16:39:43-05:00"
-"connecticut"	"istallerthan"	"-istallerthan,,"	"people"	"667"	"bkisiel"	"2012-12-10T15:08:43-05:00"
-"connecticut"	"istallerthan"	"-istallerthan,city,magazine"	"people"	"667"	"bkisiel"	"2012-12-10T15:08:43-05:00"
-"connecticut"	"istallerthan"	"-1city"	"people"	"667"	"bkisiel"	"2012-12-10T15:09:11-05:00"
-"east_ham_baptist_church"	"placeofworshippracticesreligion"	"yreligionusesplaceofworship,religion,religion"	"baptist"	"667"	"anonymous-761f29fb-693bef9e-242af1a5"	"2012-12-09T19:16:27-05:00"
-"internet_dog"	"animalistypeofanimal"	"nanimalistypeofanimal,animal,animal"	"dogs"	"664"	"anonymous-02f8fc0a-9c1b6df3-45dfa504"	"2012-12-09T21:06:13-05:00"
-"internet_dog"	"animalistypeofanimal"	"-1mammal"	"dogs"	"664"	"bkisiel"	"2012-12-10T15:08:38-05:00"
-"football"	"sportfansincountry"	"ysportfansincountry,sport,country"	"cyprus"	"592"	"anonymous-02f8fc0a-9c1b6df3-45dfa504"	"2012-12-09T21:06:26-05:00"
-"san_dimas"	"citylocatedinstate"	"ycitylocatedinstate,city,stateorprovince"	"california"	"667"	"anonymous-8b28e970-d6a84f28-c1adb762"	"2012-12-10T06:41:09-05:00"
-"sea_salt"	"agriculturalproductcookedwithagriculturalproduct"	"yagriculturalproductcookedwithagriculturalproduct,agriculturalproduct,agriculturalproduct"	"pepper"	"667"	"anonymous-1a7de69e-2225cfcc-aebc902f"	"2012-12-10T09:18:09-05:00"
-"root"	"agriculturalproductcontainchemical"	"nagriculturalproductcontainchemical,agriculturalproduct,chemical"	"caffeine"	"662"	"anonymous-1a7de69e-2225cfcc-aebc902f"	"2012-12-10T09:18:19-05:00"
-"disorder"	"emotionassociatedwithdisease"	"yemotionassociatedwithdisease,emotion,disease"	"epilepsy"	"665"	"anonymous-1a7de69e-2225cfcc-aebc902f"	"2012-12-10T09:18:30-05:00"
-"ireland"	"countryalsoknownas"	"ncountryalsoknownas,country,country"	"austria"	"664"	"anonymous-21b977c6-79f63a7d-fe890d54"	"2012-12-11T10:21:37-05:00"
-"ireland"	"countryalsoknownas"	"-countryalsoknownas,,"	"austria"	"664"	"bkisiel"	"2012-12-14T08:37:26-05:00"
-"ireland"	"countryalsoknownas"	"-countryalsoknownas,country,country"	"austria"	"664"	"bkisiel"	"2012-12-14T08:37:26-05:00"
-"indonesia"	"countryalsoknownas"	"ncountryalsoknownas,country,country"	"malaysia"	"665"	"anonymous-61366459-cb0e5285-242af1a5"	"2012-12-11T19:44:35-05:00"
-"indonesia"	"countryalsoknownas"	"-countryalsoknownas,,"	"malaysia"	"665"	"bkisiel"	"2012-12-14T08:37:29-05:00"
-"indonesia"	"countryalsoknownas"	"-countryalsoknownas,country,country"	"malaysia"	"665"	"bkisiel"	"2012-12-14T08:37:29-05:00"
-"congo"	"countryalsoknownas"	"ncountryalsoknownas,country,country"	"indonesia"	"667"	"anonymous-61366459-cb0e5285-242af1a5"	"2012-12-11T19:44:37-05:00"
-"congo"	"countryalsoknownas"	"-countryalsoknownas,,"	"indonesia"	"667"	"bkisiel"	"2012-12-14T08:37:29-05:00"
-"congo"	"countryalsoknownas"	"-countryalsoknownas,country,country"	"indonesia"	"667"	"bkisiel"	"2012-12-14T08:37:29-05:00"
-"indonesia"	"countryalsoknownas"	"ncountryalsoknownas,country,country"	"congo"	"667"	"anonymous-61366459-cb0e5285-242af1a5"	"2012-12-11T19:44:39-05:00"
-"indonesia"	"countryalsoknownas"	"-countryalsoknownas,,"	"congo"	"667"	"bkisiel"	"2012-12-14T08:37:28-05:00"
-"indonesia"	"countryalsoknownas"	"-countryalsoknownas,country,country"	"congo"	"667"	"bkisiel"	"2012-12-14T08:37:28-05:00"
-"palembang"	"citylocatedincountry"	"ycountrycities,country,country"	"indonesia"	"667"	"anonymous-61366459-cb0e5285-242af1a5"	"2012-12-11T19:44:41-05:00"
-"aaai"	"generalizations"	"yconference"	"conference"	"195"	"anonymous-e89d0c62-40ee98e3-9dc03215"	"2011-09-09T15:18:27-04:00"
-"aaai"	"generalizations"	"yconference"	"conference"	"195"	"anonymous-8cd8eeaa-ad3369ba-cea4ffb2"	"2011-11-21T23:07:10-05:00"
-"pycon"	"generalizations"	"yconference"	"conference"	"73"	"anonymous-05737e6b-a2d6151d-194bfaf5"	"2011-09-18T23:04:21-04:00"
-"pycon"	"generalizations"	"yconference"	"conference"	"73"	"anonymous-542956b3-ac5fddd7-948ed599"	"2011-12-03T07:41:22-05:00"
-"montreal"	"generalizations"	"ycity"	"island"	"628"	"anonymous-43967165-e3b19a36-7e950f98"	"2011-09-22T16:14:28-04:00"
-"icag"	"generalizations"	"yconference"	"conference"	"457"	"anonymous-f932a479-e490ab5e-2305d4f8"	"2011-11-29T17:55:39-05:00"
-"purchase"	"generalizations"	"ncity"	"island"	"550"	"anonymous-db090d85-715e45bd-0f5cd718"	"2012-09-16T21:15:13-04:00"
-"ray_bradbury"	"generalizations"	"ywriter"	"scientist"	"601"	"anonymous-948a9dd5-92cea8a8-236cf1c9"	"2012-09-28T09:04:46-04:00"
-"jk_rowlings"	"generalizations"	"ywriter"	"scientist"	"659"	"anonymous-33f8adfa-b10cc087-874d9197"	"2012-10-29T17:53:01-04:00"
-"sigcaph"	"generalizations"	"yconference"	"conference"	"649"	"anonymous-5c317af1-eb6b2928-9f5082cb"	"2012-11-01T15:50:27-04:00"
-"boston"	"generalizations"	"ycity"	"island"	"224"	"anonymous-5c3928fc-c89c0f10-0f5cd718"	"2012-11-05T01:48:02-05:00"
-"advise_and_consent"	"generalizations"	"ybook"	"book"	"601"	"anonymous-72c28a40-859f56b8-0f5cd718"	"2012-12-08T13:08:24-05:00"
-"aquarium_goldfish"	"generalizations"	"yfish"	"fish"	"181"	"anonymous-72c28a40-859f56b8-0f5cd718"	"2012-12-08T13:09:53-05:00"
-"afghanistan___kabul"	"generalizations"	"ycountry"	"country"	"568"	"anonymous-72c28a40-859f56b8-0f5cd718"	"2012-12-08T13:10:35-05:00"
-"u_s__national_academy_of_sciences"	"generalizations"	"yprofessionalorganization"	"professionalorganization"	"664"	"anonymous-00d38786-a86fcef7-64c08ed9"	"2012-12-08T15:25:42-05:00"
-"screen_computer"	"generalizations"	"ytableitem"	"tableitem"	"665"	"anonymous-00d38786-a86fcef7-64c08ed9"	"2012-12-08T15:25:49-05:00"
-"christina_lake"	"generalizations"	"ylake"	"lake"	"664"	"anonymous-6734a713-92b573cb-f974840f"	"2012-12-08T17:36:49-05:00"
-"metal_death_metal"	"generalizations"	"ymusicgenre"	"musicgenre"	"665"	"anonymous-6734a713-92b573cb-f974840f"	"2012-12-08T17:38:31-05:00"
-"metal_death_metal"	"generalizations"	"ymusicgenre"	"musicgenre"	"665"	"anonymous-a4d4b4b7-f7e56644-f8ab7d5d"	"2012-12-11T10:13:51-05:00"
-"internet"	"generalizations"	"nprogramminglanguage"	"programminglanguage"	"665"	"anonymous-6734a713-92b573cb-f974840f"	"2012-12-08T17:39:03-05:00"
-"ada"	"generalizations"	"yprogramminglanguage"	"programminglanguage"	"632"	"anonymous-6734a713-92b573cb-f974840f"	"2012-12-08T17:39:12-05:00"
-"to_rewrite_the_code"	"generalizations"	"nprogramminglanguage"	"programminglanguage"	"577"	"anonymous-6734a713-92b573cb-f974840f"	"2012-12-08T17:39:25-05:00"
-"to_rewrite_the_code"	"generalizations"	"-programminglanguage"	"programminglanguage"	"577"	"bkisiel"	"2012-12-10T15:06:20-05:00"
-"to_rewrite_the_code"	"generalizations"	"xprogramminglanguage"	"programminglanguage"	"577"	"bkisiel"	"2012-12-10T15:06:20-05:00"
-"regedit"	"generalizations"	"nprogramminglanguage"	"programminglanguage"	"225"	"anonymous-6734a713-92b573cb-f974840f"	"2012-12-08T17:39:40-05:00"
-"regedit"	"generalizations"	"-programminglanguage"	"programminglanguage"	"225"	"bkisiel"	"2012-12-10T15:06:16-05:00"
-"regedit"	"generalizations"	"xprogramminglanguage"	"programminglanguage"	"225"	"bkisiel"	"2012-12-10T15:06:16-05:00"
-"java_1_1"	"generalizations"	"yprogramminglanguage"	"programminglanguage"	"629"	"anonymous-6734a713-92b573cb-f974840f"	"2012-12-08T17:39:58-05:00"
-"javasript"	"generalizations"	"nprogramminglanguage"	"programminglanguage"	"158"	"anonymous-6734a713-92b573cb-f974840f"	"2012-12-08T17:40:30-05:00"
-"baritone_sax"	"generalizations"	"ymusicinstrument"	"musicinstrument"	"3"	"anonymous-6734a713-92b573cb-f974840f"	"2012-12-08T17:42:27-05:00"
-"malayan_painted_toad"	"generalizations"	"yamphibian"	"amphibian"	"662"	"anonymous-6734a713-92b573cb-f974840f"	"2012-12-08T17:47:43-05:00"
-"phone_ringtones"	"generalizations"	"ntableitem"	"tableitem"	"665"	"anonymous-f01849b3-116e2b5d-9dfda0b0"	"2012-12-08T18:01:41-05:00"
-"phone_ringtones"	"generalizations"	"ntableitem"	"tableitem"	"665"	"anonymous-5919f5dc-5e94a30d-cb89721a"	"2012-12-08T20:32:42-05:00"
-"phone_ringtones"	"generalizations"	"ntableitem"	"tableitem"	"665"	"anonymous-0ed41f51-7c7ada12-251cc7a1"	"2012-12-08T23:57:51-05:00"
-"phone_ringtones"	"generalizations"	"ntableitem"	"tableitem"	"665"	"anonymous-278db3f4-4089351f-242af1a5"	"2012-12-09T01:36:11-05:00"
-"phone_ringtones"	"generalizations"	"ntableitem"	"tableitem"	"665"	"anonymous-1524fff7-1a00216b-f8eba963"	"2012-12-09T03:46:32-05:00"
-"phone_ringtones"	"generalizations"	"-tableitem"	"tableitem"	"665"	"bkisiel"	"2012-12-10T15:06:13-05:00"
-"phone_ringtones"	"generalizations"	"xtableitem"	"tableitem"	"665"	"bkisiel"	"2012-12-10T15:06:13-05:00"
-"web_security_blog"	"generalizations"	"yblog"	"blog"	"661"	"anonymous-5919f5dc-5e94a30d-cb89721a"	"2012-12-08T21:07:21-05:00"
-"web_security_blog"	"generalizations"	"yblog"	"blog"	"661"	"anonymous-190c090b-a8d0a023-242af1a5"	"2012-12-08T21:48:05-05:00"
-"eat_in_breakfast_room"	"generalizations"	"nroom"	"room"	"661"	"anonymous-278db3f4-4089351f-242af1a5"	"2012-12-09T01:38:47-05:00"
-"eat_in_breakfast_room"	"generalizations"	"-room"	"room"	"661"	"bkisiel"	"2012-12-10T15:06:14-05:00"
-"eat_in_breakfast_room"	"generalizations"	"xroom"	"room"	"661"	"bkisiel"	"2012-12-10T15:06:14-05:00"
-"unconcreteness"	"generalizations"	"nemotion"	"emotion"	"536"	"anonymous-ef1848cd-40ee3680-d305843a"	"2012-12-09T08:21:13-05:00"
-"unconcreteness"	"generalizations"	"-emotion"	"emotion"	"536"	"bkisiel"	"2012-12-10T14:58:39-05:00"
-"unconcreteness"	"generalizations"	"xemotion"	"emotion"	"536"	"bkisiel"	"2012-12-10T14:58:39-05:00"
-"adult_contacts_in"	"generalizations"	"neverypromotedthing"	"everypromotedthing"	"658"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:31:44-05:00"
-"adult_contacts_in"	"generalizations"	"-everypromotedthing"	"everypromotedthing"	"658"	"bkisiel"	"2012-12-10T14:51:02-05:00"
-"adult_contacts_in"	"generalizations"	"xeverypromotedthing"	"everypromotedthing"	"658"	"bkisiel"	"2012-12-10T14:51:02-05:00"
-"a_fall_of_moondust"	"generalizations"	"ybook"	"book"	"556"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:32:45-05:00"
-"payback"	"generalizations"	"nbook"	"book"	"598"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:34:46-05:00"
-"scotland_today"	"generalizations"	"ytelevisionshow"	"televisionshow"	"659"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:35:15-05:00"
-"rolling_thunder"	"generalizations"	"ntelevisionshow"	"televisionshow"	"511"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:35:36-05:00"
-"rolling_thunder"	"generalizations"	"-televisionshow"	"televisionshow"	"511"	"bkisiel"	"2012-12-10T14:55:16-05:00"
-"rolling_thunder"	"generalizations"	"xtelevisionshow"	"televisionshow"	"511"	"bkisiel"	"2012-12-10T14:55:16-05:00"
-"modern_family"	"generalizations"	"ytelevisionshow"	"televisionshow"	"225"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:36:12-05:00"
-"long_way_round"	"generalizations"	"ytelevisionshow"	"televisionshow"	"511"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:36:43-05:00"
-"the_bench"	"generalizations"	"ytelevisionshow"	"televisionshow"	"664"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:38:03-05:00"
-"the_first_time"	"generalizations"	"ytelevisionshow"	"televisionshow"	"340"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:38:52-05:00"
-"the_venturers"	"generalizations"	"ytelevisionshow"	"televisionshow"	"620"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:39:02-05:00"
-"the_explorers"	"generalizations"	"ntelevisionshow"	"televisionshow"	"620"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:39:46-05:00"
-"the_explorers"	"generalizations"	"-televisionshow"	"televisionshow"	"620"	"bkisiel"	"2012-12-10T14:50:29-05:00"
-"the_explorers"	"generalizations"	"xtelevisionshow"	"televisionshow"	"620"	"bkisiel"	"2012-12-10T14:50:29-05:00"
-"the_moor_murderers"	"generalizations"	"ntelevisionshow"	"televisionshow"	"622"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:40:18-05:00"
-"the_moor_murderers"	"generalizations"	"-televisionshow"	"televisionshow"	"622"	"bkisiel"	"2012-12-10T14:58:18-05:00"
-"the_moor_murderers"	"generalizations"	"xtelevisionshow"	"televisionshow"	"622"	"bkisiel"	"2012-12-10T14:58:18-05:00"
-"the_dubliners"	"generalizations"	"ntelevisionshow"	"televisionshow"	"649"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:40:43-05:00"
-"the_dubliners"	"generalizations"	"xtelevisionshow"	"televisionshow"	"649"	"bkisiel"	"2012-12-10T14:52:02-05:00"
-"the_pallisers"	"generalizations"	"ytelevisionshow"	"televisionshow"	"625"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:41:04-05:00"
-"the_test_dream"	"generalizations"	"ntelevisionshow"	"televisionshow"	"662"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:41:31-05:00"
-"the_banana_bunch"	"generalizations"	"ntelevisionshow"	"televisionshow"	"664"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:42:22-05:00"
-"the_brain_drain"	"generalizations"	"ytelevisionshow"	"televisionshow"	"664"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:42:32-05:00"
-"the_dudesons"	"generalizations"	"ytelevisionshow"	"televisionshow"	"664"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:42:57-05:00"
-"the_distillers"	"generalizations"	"ntelevisionshow"	"televisionshow"	"649"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:43:09-05:00"
-"the_distillers"	"generalizations"	"-televisionshow"	"televisionshow"	"649"	"bkisiel"	"2012-12-10T14:59:02-05:00"
-"the_distillers"	"generalizations"	"xtelevisionshow"	"televisionshow"	"649"	"bkisiel"	"2012-12-10T14:59:02-05:00"
-"the_deep_end"	"generalizations"	"ytelevisionshow"	"televisionshow"	"626"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:44:09-05:00"
-"the_justice"	"generalizations"	"ytelevisionshow"	"televisionshow"	"662"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:44:47-05:00"
-"the_sky_larks"	"generalizations"	"ytelevisionshow"	"televisionshow"	"649"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:44:54-05:00"
-"the_nfl_today"	"generalizations"	"ytelevisionshow"	"televisionshow"	"664"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:45:05-05:00"
-"the_man_upstairs"	"generalizations"	"ytelevisionshow"	"televisionshow"	"335"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:45:30-05:00"
-"the_story"	"generalizations"	"ntelevisionshow"	"televisionshow"	"664"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:45:41-05:00"
-"the_story"	"generalizations"	"-televisionshow"	"televisionshow"	"664"	"bkisiel"	"2012-12-10T14:53:28-05:00"
-"the_story"	"generalizations"	"xtelevisionshow"	"televisionshow"	"664"	"bkisiel"	"2012-12-10T14:53:28-05:00"
-"the_doors"	"generalizations"	"ntelevisionshow"	"televisionshow"	"611"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:45:54-05:00"
-"the_doors"	"generalizations"	"-televisionshow"	"televisionshow"	"611"	"bkisiel"	"2012-12-10T14:49:32-05:00"
-"the_doors"	"generalizations"	"xtelevisionshow"	"televisionshow"	"611"	"bkisiel"	"2012-12-10T14:49:32-05:00"
-"the_chemical_brothers"	"generalizations"	"ntelevisionshow"	"televisionshow"	"661"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:45:57-05:00"
-"the_chemical_brothers"	"generalizations"	"-televisionshow"	"televisionshow"	"661"	"bkisiel"	"2012-12-10T14:49:30-05:00"
-"the_chemical_brothers"	"generalizations"	"xtelevisionshow"	"televisionshow"	"661"	"bkisiel"	"2012-12-10T14:49:30-05:00"
-"the_young_lawyers"	"generalizations"	"ytelevisionshow"	"televisionshow"	"659"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:46:07-05:00"
-"the_super_gwobetrotters"	"generalizations"	"ntelevisionshow"	"televisionshow"	"620"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:46:24-05:00"
-"the_pretenders"	"generalizations"	"ntelevisionshow"	"televisionshow"	"650"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:46:33-05:00"
-"the_hillybilly_bears"	"generalizations"	"ytelevisionshow"	"televisionshow"	"629"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:46:44-05:00"
-"the_good_german"	"generalizations"	"ntelevisionshow"	"televisionshow"	"662"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:47:17-05:00"
-"the_good_german"	"generalizations"	"-televisionshow"	"televisionshow"	"662"	"bkisiel"	"2012-12-10T14:58:38-05:00"
-"the_good_german"	"generalizations"	"xtelevisionshow"	"televisionshow"	"662"	"bkisiel"	"2012-12-10T14:58:38-05:00"
-"the_black_seal"	"generalizations"	"ntelevisionshow"	"televisionshow"	"664"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:47:33-05:00"
-"the_young_marauders"	"generalizations"	"ntelevisionshow"	"televisionshow"	"629"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:47:53-05:00"
-"the_young_marauders"	"generalizations"	"-televisionshow"	"televisionshow"	"629"	"bkisiel"	"2012-12-10T14:50:28-05:00"
-"the_young_marauders"	"generalizations"	"xtelevisionshow"	"televisionshow"	"629"	"bkisiel"	"2012-12-10T14:50:28-05:00"
-"the_weekenders"	"generalizations"	"ytelevisionshow"	"televisionshow"	"650"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:48:14-05:00"
-"the_othersiders"	"generalizations"	"ytelevisionshow"	"televisionshow"	"649"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:48:22-05:00"
-"the_sullivan_family_singers"	"generalizations"	"ntelevisionshow"	"televisionshow"	"526"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:48:36-05:00"
-"the_sullivan_family_singers"	"generalizations"	"-televisionshow"	"televisionshow"	"526"	"bkisiel"	"2012-12-10T14:55:01-05:00"
-"the_sullivan_family_singers"	"generalizations"	"xtelevisionshow"	"televisionshow"	"526"	"bkisiel"	"2012-12-10T14:55:01-05:00"
-"main"	"generalizations"	"ntelevisionshow"	"televisionshow"	"198"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:49:00-05:00"
-"main"	"generalizations"	"-televisionshow"	"televisionshow"	"198"	"bkisiel"	"2012-12-10T15:06:07-05:00"
-"main"	"generalizations"	"xtelevisionshow"	"televisionshow"	"198"	"bkisiel"	"2012-12-10T15:06:07-05:00"
-"oprah"	"generalizations"	"ntelevisionshow"	"televisionshow"	"665"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:49:18-05:00"
-"tonight_show"	"generalizations"	"ntelevisionshow"	"televisionshow"	"121"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:49:43-05:00"
-"beavis_and_butthead"	"generalizations"	"ytelevisionshow"	"televisionshow"	"222"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:50:19-05:00"
-"non_profit_organization"	"generalizations"	"ntelevisionshow"	"televisionshow"	"665"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:50:26-05:00"
-"non_profit_organization"	"generalizations"	"-televisionshow"	"televisionshow"	"665"	"bkisiel"	"2012-12-10T14:56:20-05:00"
-"non_profit_organization"	"generalizations"	"xtelevisionshow"	"televisionshow"	"665"	"bkisiel"	"2012-12-10T14:56:20-05:00"
-"larry_king_live"	"generalizations"	"ytelevisionshow"	"televisionshow"	"622"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:50:48-05:00"
-"superboy"	"generalizations"	"ytelevisionshow"	"televisionshow"	"634"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:51:04-05:00"
-"beavis___butt_head"	"generalizations"	"ytelevisionshow"	"televisionshow"	"637"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:51:10-05:00"
-"bienvenidos"	"generalizations"	"ytelevisionshow"	"televisionshow"	"662"	"anonymous-3eb85fe1-a1b82c08-242af1a5"	"2012-12-09T08:51:35-05:00"
-"games_rss"	"generalizations"	"nboardgame"	"boardgame"	"665"	"anonymous-bb1ea4d3-bbb2d34d-e4056e01"	"2012-12-09T08:52:29-05:00"
-"games_rss"	"generalizations"	"-boardgame"	"boardgame"	"665"	"bkisiel"	"2012-12-10T14:56:15-05:00"
-"games_rss"	"generalizations"	"xboardgame"	"boardgame"	"665"	"bkisiel"	"2012-12-10T14:56:15-05:00"
-"dogs_version"	"generalizations"	"nvertebrate"	"vertebrate"	"661"	"anonymous-bb1ea4d3-bbb2d34d-e4056e01"	"2012-12-09T08:53:07-05:00"
-"dogs_version"	"generalizations"	"-vertebrate"	"vertebrate"	"661"	"bkisiel"	"2012-12-10T14:59:23-05:00"
-"dogs_version"	"generalizations"	"xvertebrate"	"vertebrate"	"661"	"bkisiel"	"2012-12-10T14:59:23-05:00"
-"john_dennis_daniels"	"generalizations"	"ycriminal"	"criminal"	"304"	"anonymous-bb1ea4d3-bbb2d34d-e4056e01"	"2012-12-09T08:53:33-05:00"
-"wjwm"	"generalizations"	"yradiostation"	"radiostation"	"604"	"anonymous-87cc0cd5-c86e71dd-cde36de4"	"2012-12-09T15:47:02-05:00"
-"centipede"	"generalizations"	"yinvertebrate"	"invertebrate"	"667"	"anonymous-a58779e5-0d58224e-f6e7d06e"	"2012-12-09T16:39:13-05:00"
-"two_useful_sites"	"generalizations"	"nparlourgame"	"parlourgame"	"665"	"anonymous-a58779e5-0d58224e-f6e7d06e"	"2012-12-09T16:39:23-05:00"
-"two_useful_sites"	"generalizations"	"-parlourgame"	"parlourgame"	"665"	"bkisiel"	"2012-12-10T15:06:10-05:00"
-"two_useful_sites"	"generalizations"	"xparlourgame"	"parlourgame"	"665"	"bkisiel"	"2012-12-10T15:06:10-05:00"
-"c_1807"	"generalizations"	"yyear"	"year"	"661"	"anonymous-a58779e5-0d58224e-f6e7d06e"	"2012-12-09T16:39:48-05:00"
-"democratic_party_east_timor"	"generalizations"	"ypoliticalparty"	"politicalparty"	"661"	"anonymous-a58779e5-0d58224e-f6e7d06e"	"2012-12-09T16:40:38-05:00"
-"plastic_tube"	"generalizations"	"ykitchenitem"	"kitchenitem"	"664"	"anonymous-a58779e5-0d58224e-f6e7d06e"	"2012-12-09T16:40:43-05:00"
-"environmental_studies"	"generalizations"	"npoliticsissue"	"politicsissue"	"662"	"anonymous-a58779e5-0d58224e-f6e7d06e"	"2012-12-09T16:41:09-05:00"
-"environmental_studies"	"generalizations"	"yacademicfield"	"academicfield"	"565"	"anonymous-a58779e5-0d58224e-f6e7d06e"	"2012-12-09T16:41:07-05:00"
-"abbey_road"	"generalizations"	"ymusicalbum"	"musicalbum"	"0"	"anonymous-bbb1ec78-cb58688d-e4056e01"	"2012-12-09T17:41:10-05:00"
-"n1896_summer_olympics"	"generalizations"	"yolympics"	"olympics"	"120"	"anonymous-761f29fb-693bef9e-242af1a5"	"2012-12-09T19:14:27-05:00"
-"earth"	"generalizations"	"yplanet"	"planet"	"120"	"anonymous-761f29fb-693bef9e-242af1a5"	"2012-12-09T19:15:26-05:00"
-"american_museum_of_natural_history"	"generalizations"	"ymuseum"	"museum"	"0"	"anonymous-761f29fb-693bef9e-242af1a5"	"2012-12-09T19:15:48-05:00"
-"friday"	"generalizations"	"ydayofweek"	"dayofweek"	"0"	"anonymous-761f29fb-693bef9e-242af1a5"	"2012-12-09T19:15:58-05:00"
-"baptist"	"generalizations"	"yreligion"	"religion"	"55"	"anonymous-761f29fb-693bef9e-242af1a5"	"2012-12-09T19:16:17-05:00"
-"nylon_string"	"generalizations"	"nmusicinstrument"	"musicinstrument"	"662"	"anonymous-9a549583-bd24e969-8459d33f"	"2012-12-09T20:55:28-05:00"
-"word_games"	"generalizations"	"nolympics"	"olympics"	"664"	"anonymous-9a549583-bd24e969-8459d33f"	"2012-12-09T20:55:34-05:00"
-"word_games"	"generalizations"	"-olympics"	"olympics"	"664"	"bkisiel"	"2012-12-10T14:55:18-05:00"
-"word_games"	"generalizations"	"xolympics"	"olympics"	"664"	"bkisiel"	"2012-12-10T14:55:18-05:00"
-"whyl_fm"	"generalizations"	"yradiostation"	"radiostation"	"661"	"anonymous-9a549583-bd24e969-8459d33f"	"2012-12-09T20:55:38-05:00"
-"star_plaza_hotel"	"generalizations"	"yhotel"	"hotel"	"661"	"anonymous-8b28e970-d6a84f28-c1adb762"	"2012-12-10T06:39:31-05:00"
-"famous_restaurant"	"generalizations"	"nbuilding"	"building"	"661"	"anonymous-8b28e970-d6a84f28-c1adb762"	"2012-12-10T06:39:48-05:00"
-"line_title"	"generalizations"	"ngeometricshape"	"geometricshape"	"665"	"anonymous-8b28e970-d6a84f28-c1adb762"	"2012-12-10T06:40:09-05:00"
-"line_title"	"generalizations"	"-geometricshape"	"geometricshape"	"665"	"bkisiel"	"2012-12-10T14:49:27-05:00"
-"line_title"	"generalizations"	"xgeometricshape"	"geometricshape"	"665"	"bkisiel"	"2012-12-10T14:49:27-05:00"
-"financial_planning_officer"	"generalizations"	"npoliticaloffice"	"politicaloffice"	"541"	"anonymous-8b28e970-d6a84f28-c1adb762"	"2012-12-10T06:40:21-05:00"
-"financial_planning_officer"	"generalizations"	"-politicaloffice"	"politicaloffice"	"541"	"bkisiel"	"2012-12-10T14:49:25-05:00"
-"financial_planning_officer"	"generalizations"	"xpoliticaloffice"	"politicaloffice"	"541"	"bkisiel"	"2012-12-10T14:49:25-05:00"
-"porche_transmission_in_a_vw_beetle"	"generalizations"	"ninvertebrate"	"invertebrate"	"664"	"anonymous-8b28e970-d6a84f28-c1adb762"	"2012-12-10T06:40:48-05:00"
-"porche_transmission_in_a_vw_beetle"	"generalizations"	"-invertebrate"	"invertebrate"	"664"	"bkisiel"	"2012-12-10T14:49:19-05:00"
-"porche_transmission_in_a_vw_beetle"	"generalizations"	"xinvertebrate"	"invertebrate"	"664"	"bkisiel"	"2012-12-10T14:49:19-05:00"
-"keban_hotel"	"generalizations"	"yhotel"	"hotel"	"662"	"anonymous-8b28e970-d6a84f28-c1adb762"	"2012-12-10T06:41:25-05:00"
-"amalgamated_engineering_and_electrical_union"	"generalizations"	"ytradeunion"	"tradeunion"	"662"	"anonymous-8b28e970-d6a84f28-c1adb762"	"2012-12-10T06:41:55-05:00"
-"attorney_abuse"	"generalizations"	"npoliticaloffice"	"politicaloffice"	"662"	"anonymous-8b28e970-d6a84f28-c1adb762"	"2012-12-10T06:42:05-05:00"
-"attorney_abuse"	"generalizations"	"-politicaloffice"	"politicaloffice"	"662"	"bkisiel"	"2012-12-10T14:49:28-05:00"
-"attorney_abuse"	"generalizations"	"xpoliticaloffice"	"politicaloffice"	"662"	"bkisiel"	"2012-12-10T14:49:28-05:00"
-"fruit_servings"	"generalizations"	"nnut"	"nut"	"665"	"anonymous-0f8c713f-a8d0a023-c1564390"	"2012-12-10T07:43:14-05:00"
-"fruit_servings"	"generalizations"	"nnut"	"nut"	"665"	"anonymous-09c3cb45-82f1c58f-75f01798"	"2012-12-10T08:38:56-05:00"
-"fruit_servings"	"generalizations"	"nnut"	"nut"	"665"	"anonymous-731a6f72-741a1486-64cf42a3"	"2012-12-10T20:24:33-05:00"
-"fruit_servings"	"generalizations"	"-nut"	"nut"	"665"	"bkisiel"	"2012-12-10T14:49:17-05:00"
-"fruit_servings"	"generalizations"	"xnut"	"nut"	"665"	"bkisiel"	"2012-12-10T14:49:17-05:00"
-"quality_quartz_engineering"	"generalizations"	"ncharactertrait"	"charactertrait"	"661"	"anonymous-1a7de69e-2225cfcc-aebc902f"	"2012-12-10T09:18:36-05:00"
-"quality_quartz_engineering"	"generalizations"	"-charactertrait"	"charactertrait"	"661"	"bkisiel"	"2012-12-10T14:49:16-05:00"
-"quality_quartz_engineering"	"generalizations"	"xcharactertrait"	"charactertrait"	"661"	"bkisiel"	"2012-12-10T14:49:16-05:00"
-"black_soybean_beans"	"generalizations"	"ylegume"	"legume"	"662"	"anonymous-1a7de69e-2225cfcc-aebc902f"	"2012-12-10T09:18:39-05:00"
-"machine_government"	"generalizations"	"ntool"	"tool"	"661"	"anonymous-53ac9086-f069cb1e-95faaf46"	"2012-12-10T11:58:21-05:00"
-"machine_government"	"generalizations"	"-tool"	"tool"	"661"	"bkisiel"	"2012-12-10T14:49:14-05:00"
-"machine_government"	"generalizations"	"xtool"	"tool"	"661"	"bkisiel"	"2012-12-10T14:49:14-05:00"
-"budget_code"	"generalizations"	"nprogramminglanguage"	"programminglanguage"	"665"	"anonymous-a6d31da8-e5191ef7-8f1c7403"	"2012-12-10T16:34:49-05:00"
-"budget_code"	"generalizations"	"nprogramminglanguage"	"programminglanguage"	"665"	"anonymous-6febca95-ac4f8f85-ca2d180f"	"2012-12-10T16:43:25-05:00"
-"budget_code"	"generalizations"	"nprogramminglanguage"	"programminglanguage"	"665"	"anonymous-10d53239-590ea59e-3aad9cca"	"2012-12-10T16:43:30-05:00"
-"budget_code"	"generalizations"	"nprogramminglanguage"	"programminglanguage"	"665"	"anonymous-859cf44c-44fc04d0-f679dfae"	"2012-12-11T19:10:52-05:00"
-"budget_code"	"generalizations"	"-programminglanguage"	"programminglanguage"	"665"	"bkisiel"	"2012-12-14T08:33:38-05:00"
-"budget_code"	"generalizations"	"xprogramminglanguage"	"programminglanguage"	"665"	"bkisiel"	"2012-12-14T08:33:38-05:00"
-"cell_agents"	"generalizations"	"ncelltype"	"celltype"	"665"	"anonymous-477528ba-690cfbe6-44e90f71"	"2012-12-10T19:32:43-05:00"
-"cell_agents"	"generalizations"	"-celltype"	"celltype"	"665"	"bkisiel"	"2012-12-14T08:33:50-05:00"
-"cell_agents"	"generalizations"	"xcelltype"	"celltype"	"665"	"bkisiel"	"2012-12-14T08:33:50-05:00"
-"californian_king_snake"	"generalizations"	"yreptile"	"reptile"	"662"	"anonymous-a9fd446f-8f37965f-b4966da6"	"2012-12-11T06:48:08-05:00"
-"californian_king_snake"	"generalizations"	"yreptile"	"reptile"	"662"	"anonymous-859cf44c-44fc04d0-f679dfae"	"2012-12-11T19:51:29-05:00"
-"proroxane"	"generalizations"	"ndrug"	"drug"	"661"	"anonymous-5e41dc3f-a4298bd2-fe18fa0a"	"2012-12-11T12:04:44-05:00"
-"ac_milan"	"generalizations"	"ysportsteam"	"sportsteam"	"661"	"anonymous-5e41dc3f-a4298bd2-fe18fa0a"	"2012-12-11T12:05:21-05:00"
-"weapons_worth"	"generalizations"	"nweapon"	"weapon"	"665"	"anonymous-7d0f579d-9c1b6df3-fe18fa0a"	"2012-12-11T13:55:53-05:00"
-"weapons_worth"	"generalizations"	"-weapon"	"weapon"	"665"	"bkisiel"	"2012-12-14T08:33:47-05:00"
-"weapons_worth"	"generalizations"	"xweapon"	"weapon"	"665"	"bkisiel"	"2012-12-14T08:33:47-05:00"
-"codes_news"	"generalizations"	"nprogramminglanguage"	"programminglanguage"	"665"	"anonymous-54cf7320-eb47b079-5732a784"	"2012-12-11T15:00:36-05:00"
-"codes_news"	"generalizations"	"-programminglanguage"	"programminglanguage"	"665"	"bkisiel"	"2012-12-14T08:33:39-05:00"
-"codes_news"	"generalizations"	"xprogramminglanguage"	"programminglanguage"	"665"	"bkisiel"	"2012-12-14T08:33:39-05:00"
-"bill_clinton__hillary_lole_clinton_language"	"generalizations"	"nlanguage"	"language"	"599"	"anonymous-4f4cbf47-9a8d50a2-e4056e01"	"2012-12-11T15:28:13-05:00"
-"bill_clinton__hillary_lole_clinton_language"	"generalizations"	"-language"	"language"	"599"	"bkisiel"	"2012-12-14T08:33:46-05:00"
-"bill_clinton__hillary_lole_clinton_language"	"generalizations"	"xlanguage"	"language"	"599"	"bkisiel"	"2012-12-14T08:33:46-05:00"
-"indonesia"	"generalizations"	"ycountry"	"country"	"487"	"anonymous-61366459-cb0e5285-242af1a5"	"2012-12-11T19:44:43-05:00"
-"auto_repair_tools"	"generalizations"	"ytool"	"tool"	"661"	"anonymous-859cf44c-44fc04d0-f679dfae"	"2012-12-11T19:47:39-05:00"
-"basins_infrared_automatic_faucet"	"generalizations"	"ybathroomitem"	"bathroomitem"	"665"	"anonymous-859cf44c-44fc04d0-f679dfae"	"2012-12-11T19:53:05-05:00"
-"chris_clarke"	"generalizations"	"ypersonaustralia"	"personaustralia"	"247"	"anonymous-b5192386-fe199b99-7ee58369"	"2012-12-11T23:46:36-05:00"
-"hebrew_speakers"	"generalizations"	"nconsumerelectronicitem"	"consumerelectronicitem"	"667"	"anonymous-c94f0a3c-1eb0d075-f6e7d06e"	"2012-12-12T05:15:22-05:00"
-"hebrew_speakers"	"generalizations"	"-consumerelectronicitem"	"consumerelectronicitem"	"667"	"bkisiel"	"2012-12-14T08:32:36-05:00"
-"hebrew_speakers"	"generalizations"	"xconsumerelectronicitem"	"consumerelectronicitem"	"667"	"bkisiel"	"2012-12-14T08:32:36-05:00"
-"russia"	"countryalsoknownas"	"ncountryalsoknownas,country,country"	"scandinavia"	"664"	"anonymous-c94f0a3c-1eb0d075-f6e7d06e"	"2012-12-12T05:15:47-05:00"
-"russia"	"countryalsoknownas"	"-countryalsoknownas,,"	"scandinavia"	"664"	"bkisiel"	"2012-12-14T08:37:25-05:00"
-"russia"	"countryalsoknownas"	"-countryalsoknownas,country,country"	"scandinavia"	"664"	"bkisiel"	"2012-12-14T08:37:25-05:00"
-"mercedes_bentz_dealers"	"generalizations"	"nautomobilemaker"	"automobilemaker"	"665"	"anonymous-ef1848cd-40ee3680-d305843a"	"2012-12-12T06:38:25-05:00"
-"mercedes_bentz_dealers"	"generalizations"	"-automobilemaker"	"automobilemaker"	"665"	"bkisiel"	"2012-12-14T08:32:35-05:00"
-"mercedes_bentz_dealers"	"generalizations"	"xautomobilemaker"	"automobilemaker"	"665"	"bkisiel"	"2012-12-14T08:32:35-05:00"
-"power_food"	"generalizations"	"nmlmetric"	"mlmetric"	"665"	"anonymous-7a3d873b-1c6e2b4b-7dbdd8c5"	"2012-12-12T06:55:49-05:00"
-"power_food"	"generalizations"	"-mlmetric"	"mlmetric"	"665"	"bkisiel"	"2012-12-14T08:32:31-05:00"
-"power_food"	"generalizations"	"xmlmetric"	"mlmetric"	"665"	"bkisiel"	"2012-12-14T08:32:31-05:00"
-"dioxin"	"chemicalistypeofchemical"	"nchemicalistypeofchemical,chemical,chemical"	"chemicals"	"664"	"anonymous-7a3d873b-1c6e2b4b-7dbdd8c5"	"2012-12-12T06:56:28-05:00"
-"maple"	"plantincludeplant"	"nplantincludeplant,plant,plant"	"hard_woods"	"664"	"anonymous-7a3d873b-1c6e2b4b-7dbdd8c5"	"2012-12-12T06:56:37-05:00"
-"search_engine_watch_blog"	"generalizations"	"yblog"	"blog"	"662"	"anonymous-7a3d873b-1c6e2b4b-7dbdd8c5"	"2012-12-12T06:56:54-05:00"
-"mercedes_350"	"generalizations"	"nautomobilemaker"	"automobilemaker"	"665"	"anonymous-a69757be-f130fa60-fd71b466"	"2012-12-12T07:02:23-05:00"
-"mercedes_350"	"generalizations"	"-automobilemaker"	"automobilemaker"	"665"	"bkisiel"	"2012-12-14T08:32:29-05:00"
-"mercedes_350"	"generalizations"	"xautomobilemaker"	"automobilemaker"	"665"	"bkisiel"	"2012-12-14T08:32:29-05:00"
-"cuckoos_and_allies"	"generalizations"	"nanimal"	"animal"	"661"	"anonymous-93f15102-32ccc545-f6e7d06e"	"2012-12-12T09:03:57-05:00"
-"cuckoos_and_allies"	"generalizations"	"-animal"	"animal"	"661"	"bkisiel"	"2012-12-14T08:32:26-05:00"
-"cuckoos_and_allies"	"generalizations"	"xanimal"	"animal"	"661"	"bkisiel"	"2012-12-14T08:32:26-05:00"
-"brain_synchronization"	"generalizations"	"nbraintissue"	"braintissue"	"662"	"anonymous-77e82e64-116d0d7a-8d4279c4"	"2012-12-12T13:13:57-05:00"
-"brain_synchronization"	"generalizations"	"-braintissue"	"braintissue"	"662"	"bkisiel"	"2012-12-14T08:32:38-05:00"
-"brain_synchronization"	"generalizations"	"xbraintissue"	"braintissue"	"662"	"bkisiel"	"2012-12-14T08:32:38-05:00"
-"cells_in_bone_marrow_leukocytes"	"generalizations"	"ycelltype"	"celltype"	"55"	"anonymous-d285dc11-4e820564-b7c6eb12"	"2012-12-12T14:50:04-05:00"
-"spiny_lobster"	"generalizations"	"ycrustacean"	"crustacean"	"120"	"anonymous-d285dc11-4e820564-b7c6eb12"	"2012-12-12T14:50:22-05:00"
-"november_2_"	"generalizations"	"ydate"	"date"	"664"	"anonymous-6f54ce2a-f069cb1e-c62571f8"	"2012-12-12T15:00:24-05:00"
-"household_cats"	"generalizations"	"yvertebrate"	"vertebrate"	"664"	"anonymous-35f0958a-116d0d7a-8d4279c4"	"2012-12-12T17:06:05-05:00"
-"dangers_of_psychedelic_mushrooms"	"generalizations"	"nfungus"	"fungus"	"664"	"anonymous-efa72aed-1a0094f2-242af1a5"	"2012-12-12T18:08:33-05:00"
-"dangers_of_psychedelic_mushrooms"	"generalizations"	"-fungus"	"fungus"	"664"	"bkisiel"	"2012-12-14T08:32:33-05:00"
-"dangers_of_psychedelic_mushrooms"	"generalizations"	"xfungus"	"fungus"	"664"	"bkisiel"	"2012-12-14T08:32:33-05:00"
-"sea_weed"	"generalizations"	"nnut"	"nut"	"665"	"anonymous-e66349a7-fca95872-ab4832f4"	"2012-12-12T21:56:27-05:00"
-"sea_weed"	"generalizations"	"-nut"	"nut"	"665"	"bkisiel"	"2012-12-14T08:32:27-05:00"
-"sea_weed"	"generalizations"	"xnut"	"nut"	"665"	"bkisiel"	"2012-12-14T08:32:27-05:00"
-"ted_bundy"	"generalizations"	"ycriminal"	"criminal"	"167"	"anonymous-e66349a7-fca95872-ab4832f4"	"2012-12-12T22:02:35-05:00"
-"amino_acid"	"generalizations"	"narchaea"	"archaea"	"646"	"anonymous-e66349a7-fca95872-ab4832f4"	"2012-12-12T22:03:39-05:00"
-"amino_acid"	"generalizations"	"-archaea"	"archaea"	"646"	"bkisiel"	"2012-12-14T08:32:22-05:00"
-"amino_acid"	"generalizations"	"xarchaea"	"archaea"	"646"	"bkisiel"	"2012-12-14T08:32:22-05:00"
-"lisp"	"generalizations"	"yprogramminglanguage"	"programminglanguage"	"436"	"anonymous-e66349a7-fca95872-ab4832f4"	"2012-12-12T22:06:14-05:00"
-"bean_preparation"	"generalizations"	"nlegume"	"legume"	"667"	"anonymous-9bddfb71-a994921e-c62571f8"	"2012-12-12T23:54:09-05:00"
-"bean_preparation"	"generalizations"	"-legume"	"legume"	"667"	"bkisiel"	"2012-12-14T08:32:21-05:00"
-"bean_preparation"	"generalizations"	"xlegume"	"legume"	"667"	"bkisiel"	"2012-12-14T08:32:21-05:00"
-"mung_beans"	"generalizations"	"ylegume"	"legume"	"667"	"anonymous-9bddfb71-a994921e-c62571f8"	"2012-12-12T23:54:18-05:00"
-"university_of_cincinnati"	"generalizations"	"yuniversity"	"university"	"662"	"anonymous-9bddfb71-a994921e-c62571f8"	"2012-12-12T23:54:21-05:00"
-"abc"	"generalizations"	"ytelevisionnetwork"	"televisionnetwork"	"667"	"anonymous-efa72aed-1a0094f2-242af1a5"	"2012-12-13T00:10:45-05:00"
-"abc"	"generalizations"	"ytelevisionnetwork"	"televisionnetwork"	"667"	"anonymous-e5011286-5a5fe398-5d53253d"	"2012-12-13T00:50:25-05:00"
-"abc"	"generalizations"	"ytelevisionnetwork"	"televisionnetwork"	"667"	"anonymous-a4900cee-116d0d7a-8d4279c4"	"2012-12-13T06:23:23-05:00"
-"peter_gavin"	"generalizations"	"yperson"	"person"	"662"	"anonymous-335581d4-a8d0a023-77f52f1b"	"2012-12-13T03:25:12-05:00"
-"peter_gavin"	"haswikipediaurl"	"yhaswikipediaurl,person,http"	"//en.wikipedia.org/wiki/Peter%20Gavin%20(Canadian%20politician)"	"658"	"anonymous-335581d4-a8d0a023-77f52f1b"	"2012-12-13T03:25:29-05:00"
-"sr_computer_operator"	"generalizations"	"yprofession"	"profession"	"662"	"anonymous-a4900cee-116d0d7a-8d4279c4"	"2012-12-13T06:19:48-05:00"
-"chase_manhattan"	"generalizations"	"ybank"	"bank"	"662"	"anonymous-a4900cee-116d0d7a-8d4279c4"	"2012-12-13T06:27:07-05:00"
-"chase_manhattan"	"generalizations"	"ybank"	"bank"	"662"	"anonymous-8203f4f6-ac5d3d65-f6e7d06e"	"2012-12-13T15:05:30-05:00"
-"chambersburg_borough_police_department"	"generalizations"	"ygovernmentorganization"	"governmentorganization"	"662"	"anonymous-fb069e8b-116d0d7a-8d4279c4"	"2012-12-13T08:04:16-05:00"
-"nike_inc"	"generalizations"	"nbiotechcompany"	"biotechcompany"	"662"	"anonymous-c95203d3-5166cdb4-279ea147"	"2012-12-13T08:22:45-05:00"
-"nike_inc"	"generalizations"	"-biotechcompany"	"biotechcompany"	"662"	"bkisiel"	"2012-12-14T08:31:56-05:00"
-"nike_inc"	"generalizations"	"xbiotechcompany"	"biotechcompany"	"662"	"bkisiel"	"2012-12-14T08:31:56-05:00"
-"onion"	"agriculturalproductcookedwithagriculturalproduct"	"yagriculturalproductcookedwithagriculturalproduct,agriculturalproduct,agriculturalproduct"	"pepper"	"665"	"anonymous-c95203d3-5166cdb4-279ea147"	"2012-12-13T08:23:47-05:00"
-"tofu"	"agriculturalproductcutintogeometricshape"	"yagriculturalproductcutintogeometricshape,agriculturalproduct,geometricshape"	"cube"	"667"	"anonymous-c95203d3-5166cdb4-279ea147"	"2012-12-13T08:24:37-05:00"
-"nitrogen_oxides"	"chemicalistypeofchemical"	"ychemicalistypeofchemical,chemical,chemical"	"gas"	"664"	"anonymous-c95203d3-5166cdb4-279ea147"	"2012-12-13T08:26:26-05:00"
-"santa_catarina"	"cityalsoknownas"	"ncityalsoknownas,city,city"	"rio"	"667"	"anonymous-c95203d3-5166cdb4-279ea147"	"2012-12-13T08:26:46-05:00"
-"santa_catarina"	"cityalsoknownas"	"-cityalsoknownas,,"	"rio"	"667"	"bkisiel"	"2012-12-14T08:37:12-05:00"
-"santa_catarina"	"cityalsoknownas"	"-cityalsoknownas,city,city"	"rio"	"667"	"bkisiel"	"2012-12-14T08:37:12-05:00"
-"football"	"sporthassportsteamposition"	"ysporthassportsteamposition,sport,sportsteamposition"	"fan"	"667"	"anonymous-c95203d3-5166cdb4-279ea147"	"2012-12-13T08:27:45-05:00"
-"cookie"	"bakedgoodservedwithbeverage"	"ybakedgoodservedwithbeverage,bakedgood,beverage"	"chocolate"	"667"	"anonymous-c95203d3-5166cdb4-279ea147"	"2012-12-13T08:27:51-05:00"
-"extra_virgin_olive_oil"	"beveragemadefrombeverage"	"nbeveragemadefrombeverage,beverage,beverage"	"juice"	"667"	"anonymous-c95203d3-5166cdb4-279ea147"	"2012-12-13T08:29:04-05:00"
-"extra_virgin_olive_oil"	"beveragemadefrombeverage"	"-beveragemadefrombeverage,,"	"juice"	"667"	"bkisiel"	"2012-12-14T08:37:18-05:00"
-"extra_virgin_olive_oil"	"beveragemadefrombeverage"	"-beveragemadefrombeverage,beverage,beverage"	"juice"	"667"	"bkisiel"	"2012-12-14T08:37:18-05:00"
-"large_turtle"	"generalizations"	"yreptile"	"reptile"	"667"	"anonymous-0395ddcc-72c655c5-b8337ff6"	"2012-12-13T11:55:45-05:00"
-"power_sugar"	"generalizations"	"nfruit"	"fruit"	"665"	"anonymous-18064fc7-548b2e44-91588326"	"2012-12-13T15:15:12-05:00"
-"power_sugar"	"generalizations"	"-fruit"	"fruit"	"665"	"bkisiel"	"2012-12-14T08:32:11-05:00"
-"power_sugar"	"generalizations"	"xfruit"	"fruit"	"665"	"bkisiel"	"2012-12-14T08:32:11-05:00"
-"hex_nuts"	"generalizations"	"nfruit"	"fruit"	"667"	"anonymous-18064fc7-548b2e44-91588326"	"2012-12-13T15:16:01-05:00"
-"hex_nuts"	"generalizations"	"-food"	"fruit"	"667"	"bkisiel"	"2012-12-14T08:32:17-05:00"
-"beetles_music_downloader"	"generalizations"	"ninvertebrate"	"invertebrate"	"667"	"anonymous-5ffe88da-8a54a7a0-b7c6eb12"	"2012-12-13T17:17:22-05:00"
-"beetles_music_downloader"	"generalizations"	"-animal"	"invertebrate"	"667"	"bkisiel"	"2012-12-14T08:32:08-05:00"
-"senator_john_rockefeller"	"generalizations"	"ypolitician"	"politician"	"664"	"anonymous-4836e3fe-212eda8f-f37bfda9"	"2012-12-13T20:12:06-05:00"
-"shoes_and_sandals"	"generalizations"	"yclothing"	"clothing"	"665"	"anonymous-4836e3fe-212eda8f-f37bfda9"	"2012-12-13T20:12:12-05:00"
-"mushrooms_and_artichokes_in_cdkitchen"	"generalizations"	"nfungus"	"fungus"	"664"	"anonymous-dfdeddac-36b58315-f974840f"	"2012-12-13T20:29:47-05:00"
-"mushrooms_and_artichokes_in_cdkitchen"	"generalizations"	"-fungus"	"fungus"	"664"	"bkisiel"	"2012-12-14T08:31:41-05:00"
-"mushrooms_and_artichokes_in_cdkitchen"	"generalizations"	"xfungus"	"fungus"	"664"	"bkisiel"	"2012-12-14T08:31:41-05:00"
-"jesus_of_nazareth"	"generalizations"	"npersonsouthamerica"	"personsouthamerica"	"667"	"anonymous-35739929-4cdda314-c62571f8"	"2012-12-13T20:53:41-05:00"
-"jesus_of_nazareth"	"generalizations"	"-personsouthamerica"	"personsouthamerica"	"667"	"bkisiel"	"2012-12-14T08:32:01-05:00"
-"jesus_of_nazareth"	"generalizations"	"xpersonsouthamerica"	"personsouthamerica"	"667"	"bkisiel"	"2012-12-14T08:32:01-05:00"
-"joseph_lawrence"	"generalizations"	"ncriminal"	"criminal"	"667"	"anonymous-0b5a2c9b-f198c6a3-9dfda0b0"	"2012-12-13T22:36:45-05:00"
-"tomato_pizza"	"generalizations"	"nvegetable"	"vegetable"	"664"	"anonymous-70861689-28f0f196-e4056e01"	"2012-12-14T05:59:58-05:00"
-"tomato_pizza"	"generalizations"	"-vegetable"	"vegetable"	"664"	"bkisiel"	"2012-12-14T08:30:39-05:00"
-"tomato_pizza"	"generalizations"	"xvegetable"	"vegetable"	"664"	"bkisiel"	"2012-12-14T08:30:39-05:00"
-"cleveland_indians"	"teamplaysincity"	"nteamplaysincity,sportsteam,city"	"boston"	"667"	"anonymous-70861689-28f0f196-e4056e01"	"2012-12-14T06:00:10-05:00"
-"cleveland_indians"	"teamplaysincity"	"-teamplaysincity,,"	"boston"	"667"	"bkisiel"	"2012-12-14T08:37:08-05:00"
-"cleveland_indians"	"teamplaysincity"	"-teamplaysincity,sportsteam,city"	"boston"	"667"	"bkisiel"	"2012-12-14T08:37:08-05:00"
-"ski"	"sportschoolincountry"	"nsportschoolincountry,sport,country"	"iraq_worth"	"664"	"anonymous-70861689-28f0f196-e4056e01"	"2012-12-14T06:00:14-05:00"
-"ski"	"sportschoolincountry"	"-2country"	"iraq_worth"	"664"	"bkisiel"	"2012-12-14T08:36:54-05:00"
-"beverages"	"agriculturalproductincludingagriculturalproduct"	"yagriculturalproductincludingagriculturalproduct,agriculturalproduct,agriculturalproduct"	"milk"	"665"	"anonymous-70861689-28f0f196-e4056e01"	"2012-12-14T06:00:30-05:00"
-"the_bodyguard__original_soundtrack_album"	"generalizations"	"ymusicalbum"	"musicalbum"	"667"	"anonymous-70861689-28f0f196-e4056e01"	"2012-12-14T06:00:43-05:00"
-"iraq_worth"	"generalizations"	"l-<Iraq&#x20;worth><IRaq>"	"country"	"533"	"bkisiel"	"2012-12-14T08:37:51-05:00"
-"tubs"	"generalizations"	"ybathroomitem"	"bathroomitem"	"662"	"anonymous-c0a8cea2-7d02fbdd-d7ece0a6"	"2012-12-14T09:26:43-05:00"
-"www_crisismanagement_org"	"generalizations"	"nmlconference"	"mlconference"	"662"	"anonymous-dd3d9867-108fc1cc-cb89721a"	"2012-12-14T12:14:03-05:00"
-"jeff_dean"	"generalizations"	"ychef"	"chef"	"667"	"anonymous-73c2cdfa-627a374a-4601b889"	"2012-12-14T12:56:42-05:00"
-"dummy1"	"inverseofmammalsuchasmammal"	"RIE"	"concept:dummy2"	"643"	"mitchell"	"2012-12-06T15:42:27-05:00"
+Entity,Relation,Action,Value,Iteration of Promotion,Action Source,Action Date
+rugby,sportschoolincountry,"ysportfansincountry,sport,country",argentina,667,anonymous-f324290b-7c35c16f-0f5cd718,2012-09-18T00:58:49-04:00
+spanish,languageofcountry,"nlanguageofcity,language,city",tucson,215,anonymous-fa6288e6-93b87bf5-a918d6dd,2012-09-12T11:48:35-04:00
+midges,animalsuchasinvertebrate,"nanimalsuchasinsect,animal,insect",insects,667,anonymous-c7543bdd-baf66d4f-fed27e92,2012-11-21T14:36:30-05:00
+tarantulas,arthropodandotherarthropod,"yarthropodcalledarthropod,arthropod,arthropod",spiders,556,anonymous-90709515-348688ba-0f5cd718,2012-08-19T16:08:31-04:00
+spiders,arthropodandotherarthropod,"narthropodcalledarthropod,arthropod,arthropod",black_widow_spiders,667,anonymous-5aa1750e-aa82da29-2843fab5,2012-10-29T20:48:28-04:00
+tokyo,citycapitalofcountry,"ycitylocatedincountry,city,country",japan,667,anonymous-fb7e332b-d285565f-0f5cd718,2012-09-09T12:28:52-04:00
+hiroshima,citycapitalofcountry,"ycitylocatedincountry,city,country",japan,667,anonymous-25628de8-0f00b332-0f5cd718,2012-09-12T13:01:52-04:00
+hiroshima,citycapitalofcountry,"ycitylocatedincountry,city,country",japan,667,anonymous-416cc61c-29aba0f4-0f5cd718,2012-09-13T21:26:48-04:00
+algiers,citycapitalofcountry,"ycountrycities,country,country",algeria,667,anonymous-73c6ab72-dc132ab6-7d86234c,2012-10-02T10:10:48-04:00
+mary,parentofperson,"ymotherofperson,female,person",jesus_christ,665,anonymous-8a1eec79-43f95efe-3692a0bb,2012-09-15T12:39:10-04:00
+beds,itemfoundinroom,"yroomcancontainfurniture,room,room",smoking_room,665,anonymous-491d0a40-3fc8fb8d-21eb23ed,2012-07-19T13:42:39-04:00
+beds,itemfoundinroom,"yfurniturefoundinroom,furniture,room",bunk_bed,622,anonymous-90709515-348688ba-0f5cd718,2012-08-19T15:41:30-04:00
+beds,itemfoundinroom,"yfurniturefoundinroom,furniture,room",porch,665,anonymous-e9f72a31-3afd7b16-0f5cd718,2012-08-24T01:11:06-04:00
+beds,itemfoundinroom,"yfurniturefoundinroom,furniture,room",apartment,623,anonymous-e9f72a31-3afd7b16-0f5cd718,2012-08-24T01:25:33-04:00
+beds,itemfoundinroom,"nfurniturefoundinroom,furniture,room",baths,625,anonymous-fb7e332b-d285565f-0f5cd718,2012-09-09T12:24:54-04:00
+beds,itemfoundinroom,"-itemfoundinroom,,",baths,625,bkisiel,2012-12-10T15:11:17-05:00
+beds,itemfoundinroom,"-itemfoundinroom,furniture,room",baths,625,bkisiel,2012-12-10T15:11:17-05:00
+beds,itemfoundinroom,"yfurniturefoundinroom,furniture,room",studio_rooms,275,anonymous-575b516a-30123184-e31bf044,2012-09-16T12:08:32-04:00
+beds,itemfoundinroom,"yfurniturefoundinroom,furniture,room",dorm_room,634,anonymous-db090d85-715e45bd-0f5cd718,2012-09-16T21:17:08-04:00
+sleeper_sofa,itemfoundinroom,"nfurniturefoundinroom,furniture,room",area,262,anonymous-90709515-348688ba-0f5cd718,2012-08-19T16:16:45-04:00
+size_sofa_bed,itemfoundinroom,"nfurniturefoundinroom,furniture,room",area,302,anonymous-e9f72a31-3afd7b16-0f5cd718,2012-08-24T01:35:14-04:00
+size_sofa_bed,itemfoundinroom,-1furniture,area,302,bkisiel,2012-12-10T15:11:13-05:00
+size_sofa_bed,itemfoundinroom,"-itemfoundinroom,,",area,302,bkisiel,2012-12-10T15:11:14-05:00
+size_sofa_bed,itemfoundinroom,"-itemfoundinroom,furniture,room",area,302,bkisiel,2012-12-10T15:11:14-05:00
+bed,itemfoundinroom,"yroomcancontainfurniture,room,room",smoking_room,289,anonymous-491d0a40-3fc8fb8d-21eb23ed,2012-07-19T13:42:40-04:00
+bed,itemfoundinroom,"nfurniturefoundinroom,furniture,room",porch,616,anonymous-879b150b-72cc26fc-0f5cd718,2012-08-22T01:13:22-04:00
+bed,itemfoundinroom,"nfurniturefoundinroom,furniture,room",front_room,263,anonymous-7013540c-25ecdff2-0f5cd718,2012-08-26T23:00:42-04:00
+bed,itemfoundinroom,"nfurniturefoundinroom,furniture,room",master,262,anonymous-12c765c5-9d0d1654-0f5cd718,2012-09-01T01:05:03-04:00
+bed,itemfoundinroom,"nfurniturefoundinroom,furniture,room",master,262,anonymous-3ed3d9da-84e61946-0f5cd718,2012-09-02T00:37:41-04:00
+bed,itemfoundinroom,"yfurniturefoundinroom,furniture,room",property,299,anonymous-3ed3d9da-84e61946-0f5cd718,2012-09-02T01:04:43-04:00
+size,itemfoundinroom,"nfurniturefoundinroom,furniture,room",guest_room,313,anonymous-fb7e332b-d285565f-0f5cd718,2012-09-09T12:28:31-04:00
+steven_ballmer,worksfor,"yceoof,ceo,company",microsoft,209,anonymous-7943fe77-1dd949ac-e744ac17,2012-11-28T17:32:20-05:00
+three_rivers_stadium,attractionofcity,"ybuildinglocatedincity,building,city",pittsburgh,667,anonymous-ff8bba2c-4140b3c6-b7c6eb12,2012-11-03T03:39:10-04:00
+andrew_young,personleadsgeopoliticalorganization,"ypersonleadscity,politician,city",atlanta,667,anonymous-4be61fe5-0f5ccc19-c7b248db,2012-09-24T08:12:54-04:00
+kurt_warner,personbelongstoorganization,"yathleteplaysinleague,athlete,sportsleague",nfl,667,anonymous-2236d8b2-5365052c-971284cf,2012-11-20T20:08:15-05:00
+kingdome,stadiumlocatedincity,"yattractionofcity,attraction,city",seattle,667,anonymous-5b3de3e7-142a5cdc-971284cf,2012-11-29T14:07:00-05:00
+advise_and_consent,bookwriter,"nbookwriter,book,writer",allen_drury,599,anonymous-72c28a40-859f56b8-0f5cd718,2012-12-08T13:08:37-05:00
+longwood,citylocatedinstate,"ycitylocatedinstate,city,stateorprovince",florida,667,anonymous-00d38786-a86fcef7-64c08ed9,2012-12-08T15:26:39-05:00
+chris_gethard,haswikipediaurl,"yhaswikipediaurl,male,http",//en.wikipedia.org/wiki/Chris%20Gethard,656,anonymous-6d569e0f-e542ad65-42facfce,2012-12-08T15:29:29-05:00
+training,subpartof,"nsubpartof,everypromotedthing,everypromotedthing",water,661,anonymous-278db3f4-4089351f-242af1a5,2012-12-09T01:32:03-05:00
+training,subpartof,"-subpartof,,",water,661,bkisiel,2012-12-10T15:09:44-05:00
+training,subpartof,"-subpartof,physicalaction,weatherphenomenon",water,661,bkisiel,2012-12-10T15:09:44-05:00
+a_fall_of_moondust,bookwriter,"ybookwriter,book,writer",arthur_c__clarke,587,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:32:54-05:00
+a_fall_of_moondust,haswikipediaurl,"yhaswikipediaurl,book,http",//en.wikipedia.org/wiki/A%20Fall%20of%20Moondust,653,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:34:02-05:00
+scotland_today,haswikipediaurl,"yhaswikipediaurl,televisionshow,http",//en.wikipedia.org/wiki/Scotland%20Today,655,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:35:18-05:00
+long_way_round,haswikipediaurl,"yhaswikipediaurl,televisionshow,http",//en.wikipedia.org/wiki/Long%20Way%20Round,655,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:36:49-05:00
+the_venturers,haswikipediaurl,"yhaswikipediaurl,televisionshow,http",//en.wikipedia.org/wiki/The%20Venturers,653,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:39:04-05:00
+the_pallisers,haswikipediaurl,"yhaswikipediaurl,televisionshow,http",//en.wikipedia.org/wiki/The%20Pallisers,655,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:41:06-05:00
+the_brain_drain,haswikipediaurl,"yhaswikipediaurl,televisionshow,http",//en.wikipedia.org/wiki/The%20Brain%20Drain,655,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:42:35-05:00
+the_nfl_today,haswikipediaurl,"yhaswikipediaurl,televisionshow,http",//en.wikipedia.org/wiki/The%20NFL%20Today,655,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:45:06-05:00
+the_young_lawyers,haswikipediaurl,"yhaswikipediaurl,televisionshow,http",//en.wikipedia.org/wiki/The%20Young%20Lawyers,653,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:46:08-05:00
+the_othersiders,haswikipediaurl,"yhaswikipediaurl,televisionshow,http",//en.wikipedia.org/wiki/The%20Othersiders,655,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:48:24-05:00
+states,statelocatedingeopoliticallocation,"ngeopoliticallocationcontainsstate,county,county",state,622,anonymous-a58779e5-0d58224e-f6e7d06e,2012-12-09T16:38:27-05:00
+states,statelocatedingeopoliticallocation,"-statelocatedingeopoliticallocation,,",state,622,bkisiel,2012-12-10T15:09:40-05:00
+states,statelocatedingeopoliticallocation,"-statelocatedingeopoliticallocation,stateorprovince,county",state,622,bkisiel,2012-12-10T15:09:40-05:00
+american,personhasresidenceingeopoliticallocation,"ngeopoliticallocationresidenceofpersion,county,county",state,649,anonymous-a58779e5-0d58224e-f6e7d06e,2012-12-09T16:38:29-05:00
+american,personhasresidenceingeopoliticallocation,-1astronaut,state,649,bkisiel,2012-12-10T15:09:32-05:00
+american,personhasresidenceingeopoliticallocation,"-personhasresidenceingeopoliticallocation,,",state,649,bkisiel,2012-12-10T15:09:34-05:00
+american,personhasresidenceingeopoliticallocation,"-personhasresidenceingeopoliticallocation,astronaut,county",state,649,bkisiel,2012-12-10T15:09:34-05:00
+rendell,personhasresidenceingeopoliticallocation,"ngeopoliticallocationresidenceofpersion,county,county",state,641,anonymous-a58779e5-0d58224e-f6e7d06e,2012-12-09T16:38:33-05:00
+rendell,personhasresidenceingeopoliticallocation,"-personhasresidenceingeopoliticallocation,,",state,641,bkisiel,2012-12-10T15:11:36-05:00
+rendell,personhasresidenceingeopoliticallocation,"-personhasresidenceingeopoliticallocation,male,county",state,641,bkisiel,2012-12-10T15:11:36-05:00
+garage_door,buildingfeaturemadefrombuildingmaterial,"nbuildingfeaturemadefrombuildingmaterial,buildingfeature,buildingmaterial",roller,665,anonymous-a58779e5-0d58224e-f6e7d06e,2012-12-09T16:39:32-05:00
+connecticut,istallerthan,"nistallerthan,everypromotedthing,everypromotedthing",people,667,anonymous-a58779e5-0d58224e-f6e7d06e,2012-12-09T16:39:43-05:00
+connecticut,istallerthan,"-istallerthan,,",people,667,bkisiel,2012-12-10T15:08:43-05:00
+connecticut,istallerthan,"-istallerthan,city,magazine",people,667,bkisiel,2012-12-10T15:08:43-05:00
+connecticut,istallerthan,-1city,people,667,bkisiel,2012-12-10T15:09:11-05:00
+east_ham_baptist_church,placeofworshippracticesreligion,"yreligionusesplaceofworship,religion,religion",baptist,667,anonymous-761f29fb-693bef9e-242af1a5,2012-12-09T19:16:27-05:00
+internet_dog,animalistypeofanimal,"nanimalistypeofanimal,animal,animal",dogs,664,anonymous-02f8fc0a-9c1b6df3-45dfa504,2012-12-09T21:06:13-05:00
+internet_dog,animalistypeofanimal,-1mammal,dogs,664,bkisiel,2012-12-10T15:08:38-05:00
+football,sportfansincountry,"ysportfansincountry,sport,country",cyprus,592,anonymous-02f8fc0a-9c1b6df3-45dfa504,2012-12-09T21:06:26-05:00
+san_dimas,citylocatedinstate,"ycitylocatedinstate,city,stateorprovince",california,667,anonymous-8b28e970-d6a84f28-c1adb762,2012-12-10T06:41:09-05:00
+sea_salt,agriculturalproductcookedwithagriculturalproduct,"yagriculturalproductcookedwithagriculturalproduct,agriculturalproduct,agriculturalproduct",pepper,667,anonymous-1a7de69e-2225cfcc-aebc902f,2012-12-10T09:18:09-05:00
+root,agriculturalproductcontainchemical,"nagriculturalproductcontainchemical,agriculturalproduct,chemical",caffeine,662,anonymous-1a7de69e-2225cfcc-aebc902f,2012-12-10T09:18:19-05:00
+disorder,emotionassociatedwithdisease,"yemotionassociatedwithdisease,emotion,disease",epilepsy,665,anonymous-1a7de69e-2225cfcc-aebc902f,2012-12-10T09:18:30-05:00
+ireland,countryalsoknownas,"ncountryalsoknownas,country,country",austria,664,anonymous-21b977c6-79f63a7d-fe890d54,2012-12-11T10:21:37-05:00
+ireland,countryalsoknownas,"-countryalsoknownas,,",austria,664,bkisiel,2012-12-14T08:37:26-05:00
+ireland,countryalsoknownas,"-countryalsoknownas,country,country",austria,664,bkisiel,2012-12-14T08:37:26-05:00
+indonesia,countryalsoknownas,"ncountryalsoknownas,country,country",malaysia,665,anonymous-61366459-cb0e5285-242af1a5,2012-12-11T19:44:35-05:00
+indonesia,countryalsoknownas,"-countryalsoknownas,,",malaysia,665,bkisiel,2012-12-14T08:37:29-05:00
+indonesia,countryalsoknownas,"-countryalsoknownas,country,country",malaysia,665,bkisiel,2012-12-14T08:37:29-05:00
+congo,countryalsoknownas,"ncountryalsoknownas,country,country",indonesia,667,anonymous-61366459-cb0e5285-242af1a5,2012-12-11T19:44:37-05:00
+congo,countryalsoknownas,"-countryalsoknownas,,",indonesia,667,bkisiel,2012-12-14T08:37:29-05:00
+congo,countryalsoknownas,"-countryalsoknownas,country,country",indonesia,667,bkisiel,2012-12-14T08:37:29-05:00
+indonesia,countryalsoknownas,"ncountryalsoknownas,country,country",congo,667,anonymous-61366459-cb0e5285-242af1a5,2012-12-11T19:44:39-05:00
+indonesia,countryalsoknownas,"-countryalsoknownas,,",congo,667,bkisiel,2012-12-14T08:37:28-05:00
+indonesia,countryalsoknownas,"-countryalsoknownas,country,country",congo,667,bkisiel,2012-12-14T08:37:28-05:00
+palembang,citylocatedincountry,"ycountrycities,country,country",indonesia,667,anonymous-61366459-cb0e5285-242af1a5,2012-12-11T19:44:41-05:00
+aaai,generalizations,yconference,conference,195,anonymous-e89d0c62-40ee98e3-9dc03215,2011-09-09T15:18:27-04:00
+aaai,generalizations,yconference,conference,195,anonymous-8cd8eeaa-ad3369ba-cea4ffb2,2011-11-21T23:07:10-05:00
+pycon,generalizations,yconference,conference,73,anonymous-05737e6b-a2d6151d-194bfaf5,2011-09-18T23:04:21-04:00
+pycon,generalizations,yconference,conference,73,anonymous-542956b3-ac5fddd7-948ed599,2011-12-03T07:41:22-05:00
+montreal,generalizations,ycity,island,628,anonymous-43967165-e3b19a36-7e950f98,2011-09-22T16:14:28-04:00
+icag,generalizations,yconference,conference,457,anonymous-f932a479-e490ab5e-2305d4f8,2011-11-29T17:55:39-05:00
+purchase,generalizations,ncity,island,550,anonymous-db090d85-715e45bd-0f5cd718,2012-09-16T21:15:13-04:00
+ray_bradbury,generalizations,ywriter,scientist,601,anonymous-948a9dd5-92cea8a8-236cf1c9,2012-09-28T09:04:46-04:00
+jk_rowlings,generalizations,ywriter,scientist,659,anonymous-33f8adfa-b10cc087-874d9197,2012-10-29T17:53:01-04:00
+sigcaph,generalizations,yconference,conference,649,anonymous-5c317af1-eb6b2928-9f5082cb,2012-11-01T15:50:27-04:00
+boston,generalizations,ycity,island,224,anonymous-5c3928fc-c89c0f10-0f5cd718,2012-11-05T01:48:02-05:00
+advise_and_consent,generalizations,ybook,book,601,anonymous-72c28a40-859f56b8-0f5cd718,2012-12-08T13:08:24-05:00
+aquarium_goldfish,generalizations,yfish,fish,181,anonymous-72c28a40-859f56b8-0f5cd718,2012-12-08T13:09:53-05:00
+afghanistan___kabul,generalizations,ycountry,country,568,anonymous-72c28a40-859f56b8-0f5cd718,2012-12-08T13:10:35-05:00
+u_s__national_academy_of_sciences,generalizations,yprofessionalorganization,professionalorganization,664,anonymous-00d38786-a86fcef7-64c08ed9,2012-12-08T15:25:42-05:00
+screen_computer,generalizations,ytableitem,tableitem,665,anonymous-00d38786-a86fcef7-64c08ed9,2012-12-08T15:25:49-05:00
+christina_lake,generalizations,ylake,lake,664,anonymous-6734a713-92b573cb-f974840f,2012-12-08T17:36:49-05:00
+metal_death_metal,generalizations,ymusicgenre,musicgenre,665,anonymous-6734a713-92b573cb-f974840f,2012-12-08T17:38:31-05:00
+metal_death_metal,generalizations,ymusicgenre,musicgenre,665,anonymous-a4d4b4b7-f7e56644-f8ab7d5d,2012-12-11T10:13:51-05:00
+internet,generalizations,nprogramminglanguage,programminglanguage,665,anonymous-6734a713-92b573cb-f974840f,2012-12-08T17:39:03-05:00
+ada,generalizations,yprogramminglanguage,programminglanguage,632,anonymous-6734a713-92b573cb-f974840f,2012-12-08T17:39:12-05:00
+to_rewrite_the_code,generalizations,nprogramminglanguage,programminglanguage,577,anonymous-6734a713-92b573cb-f974840f,2012-12-08T17:39:25-05:00
+to_rewrite_the_code,generalizations,-programminglanguage,programminglanguage,577,bkisiel,2012-12-10T15:06:20-05:00
+to_rewrite_the_code,generalizations,xprogramminglanguage,programminglanguage,577,bkisiel,2012-12-10T15:06:20-05:00
+regedit,generalizations,nprogramminglanguage,programminglanguage,225,anonymous-6734a713-92b573cb-f974840f,2012-12-08T17:39:40-05:00
+regedit,generalizations,-programminglanguage,programminglanguage,225,bkisiel,2012-12-10T15:06:16-05:00
+regedit,generalizations,xprogramminglanguage,programminglanguage,225,bkisiel,2012-12-10T15:06:16-05:00
+java_1_1,generalizations,yprogramminglanguage,programminglanguage,629,anonymous-6734a713-92b573cb-f974840f,2012-12-08T17:39:58-05:00
+javasript,generalizations,nprogramminglanguage,programminglanguage,158,anonymous-6734a713-92b573cb-f974840f,2012-12-08T17:40:30-05:00
+baritone_sax,generalizations,ymusicinstrument,musicinstrument,3,anonymous-6734a713-92b573cb-f974840f,2012-12-08T17:42:27-05:00
+malayan_painted_toad,generalizations,yamphibian,amphibian,662,anonymous-6734a713-92b573cb-f974840f,2012-12-08T17:47:43-05:00
+phone_ringtones,generalizations,ntableitem,tableitem,665,anonymous-f01849b3-116e2b5d-9dfda0b0,2012-12-08T18:01:41-05:00
+phone_ringtones,generalizations,ntableitem,tableitem,665,anonymous-5919f5dc-5e94a30d-cb89721a,2012-12-08T20:32:42-05:00
+phone_ringtones,generalizations,ntableitem,tableitem,665,anonymous-0ed41f51-7c7ada12-251cc7a1,2012-12-08T23:57:51-05:00
+phone_ringtones,generalizations,ntableitem,tableitem,665,anonymous-278db3f4-4089351f-242af1a5,2012-12-09T01:36:11-05:00
+phone_ringtones,generalizations,ntableitem,tableitem,665,anonymous-1524fff7-1a00216b-f8eba963,2012-12-09T03:46:32-05:00
+phone_ringtones,generalizations,-tableitem,tableitem,665,bkisiel,2012-12-10T15:06:13-05:00
+phone_ringtones,generalizations,xtableitem,tableitem,665,bkisiel,2012-12-10T15:06:13-05:00
+web_security_blog,generalizations,yblog,blog,661,anonymous-5919f5dc-5e94a30d-cb89721a,2012-12-08T21:07:21-05:00
+web_security_blog,generalizations,yblog,blog,661,anonymous-190c090b-a8d0a023-242af1a5,2012-12-08T21:48:05-05:00
+eat_in_breakfast_room,generalizations,nroom,room,661,anonymous-278db3f4-4089351f-242af1a5,2012-12-09T01:38:47-05:00
+eat_in_breakfast_room,generalizations,-room,room,661,bkisiel,2012-12-10T15:06:14-05:00
+eat_in_breakfast_room,generalizations,xroom,room,661,bkisiel,2012-12-10T15:06:14-05:00
+unconcreteness,generalizations,nemotion,emotion,536,anonymous-ef1848cd-40ee3680-d305843a,2012-12-09T08:21:13-05:00
+unconcreteness,generalizations,-emotion,emotion,536,bkisiel,2012-12-10T14:58:39-05:00
+unconcreteness,generalizations,xemotion,emotion,536,bkisiel,2012-12-10T14:58:39-05:00
+adult_contacts_in,generalizations,neverypromotedthing,everypromotedthing,658,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:31:44-05:00
+adult_contacts_in,generalizations,-everypromotedthing,everypromotedthing,658,bkisiel,2012-12-10T14:51:02-05:00
+adult_contacts_in,generalizations,xeverypromotedthing,everypromotedthing,658,bkisiel,2012-12-10T14:51:02-05:00
+a_fall_of_moondust,generalizations,ybook,book,556,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:32:45-05:00
+payback,generalizations,nbook,book,598,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:34:46-05:00
+scotland_today,generalizations,ytelevisionshow,televisionshow,659,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:35:15-05:00
+rolling_thunder,generalizations,ntelevisionshow,televisionshow,511,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:35:36-05:00
+rolling_thunder,generalizations,-televisionshow,televisionshow,511,bkisiel,2012-12-10T14:55:16-05:00
+rolling_thunder,generalizations,xtelevisionshow,televisionshow,511,bkisiel,2012-12-10T14:55:16-05:00
+modern_family,generalizations,ytelevisionshow,televisionshow,225,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:36:12-05:00
+long_way_round,generalizations,ytelevisionshow,televisionshow,511,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:36:43-05:00
+the_bench,generalizations,ytelevisionshow,televisionshow,664,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:38:03-05:00
+the_first_time,generalizations,ytelevisionshow,televisionshow,340,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:38:52-05:00
+the_venturers,generalizations,ytelevisionshow,televisionshow,620,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:39:02-05:00
+the_explorers,generalizations,ntelevisionshow,televisionshow,620,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:39:46-05:00
+the_explorers,generalizations,-televisionshow,televisionshow,620,bkisiel,2012-12-10T14:50:29-05:00
+the_explorers,generalizations,xtelevisionshow,televisionshow,620,bkisiel,2012-12-10T14:50:29-05:00
+the_moor_murderers,generalizations,ntelevisionshow,televisionshow,622,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:40:18-05:00
+the_moor_murderers,generalizations,-televisionshow,televisionshow,622,bkisiel,2012-12-10T14:58:18-05:00
+the_moor_murderers,generalizations,xtelevisionshow,televisionshow,622,bkisiel,2012-12-10T14:58:18-05:00
+the_dubliners,generalizations,ntelevisionshow,televisionshow,649,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:40:43-05:00
+the_dubliners,generalizations,xtelevisionshow,televisionshow,649,bkisiel,2012-12-10T14:52:02-05:00
+the_pallisers,generalizations,ytelevisionshow,televisionshow,625,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:41:04-05:00
+the_test_dream,generalizations,ntelevisionshow,televisionshow,662,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:41:31-05:00
+the_banana_bunch,generalizations,ntelevisionshow,televisionshow,664,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:42:22-05:00
+the_brain_drain,generalizations,ytelevisionshow,televisionshow,664,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:42:32-05:00
+the_dudesons,generalizations,ytelevisionshow,televisionshow,664,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:42:57-05:00
+the_distillers,generalizations,ntelevisionshow,televisionshow,649,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:43:09-05:00
+the_distillers,generalizations,-televisionshow,televisionshow,649,bkisiel,2012-12-10T14:59:02-05:00
+the_distillers,generalizations,xtelevisionshow,televisionshow,649,bkisiel,2012-12-10T14:59:02-05:00
+the_deep_end,generalizations,ytelevisionshow,televisionshow,626,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:44:09-05:00
+the_justice,generalizations,ytelevisionshow,televisionshow,662,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:44:47-05:00
+the_sky_larks,generalizations,ytelevisionshow,televisionshow,649,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:44:54-05:00
+the_nfl_today,generalizations,ytelevisionshow,televisionshow,664,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:45:05-05:00
+the_man_upstairs,generalizations,ytelevisionshow,televisionshow,335,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:45:30-05:00
+the_story,generalizations,ntelevisionshow,televisionshow,664,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:45:41-05:00
+the_story,generalizations,-televisionshow,televisionshow,664,bkisiel,2012-12-10T14:53:28-05:00
+the_story,generalizations,xtelevisionshow,televisionshow,664,bkisiel,2012-12-10T14:53:28-05:00
+the_doors,generalizations,ntelevisionshow,televisionshow,611,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:45:54-05:00
+the_doors,generalizations,-televisionshow,televisionshow,611,bkisiel,2012-12-10T14:49:32-05:00
+the_doors,generalizations,xtelevisionshow,televisionshow,611,bkisiel,2012-12-10T14:49:32-05:00
+the_chemical_brothers,generalizations,ntelevisionshow,televisionshow,661,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:45:57-05:00
+the_chemical_brothers,generalizations,-televisionshow,televisionshow,661,bkisiel,2012-12-10T14:49:30-05:00
+the_chemical_brothers,generalizations,xtelevisionshow,televisionshow,661,bkisiel,2012-12-10T14:49:30-05:00
+the_young_lawyers,generalizations,ytelevisionshow,televisionshow,659,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:46:07-05:00
+the_super_gwobetrotters,generalizations,ntelevisionshow,televisionshow,620,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:46:24-05:00
+the_pretenders,generalizations,ntelevisionshow,televisionshow,650,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:46:33-05:00
+the_hillybilly_bears,generalizations,ytelevisionshow,televisionshow,629,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:46:44-05:00
+the_good_german,generalizations,ntelevisionshow,televisionshow,662,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:47:17-05:00
+the_good_german,generalizations,-televisionshow,televisionshow,662,bkisiel,2012-12-10T14:58:38-05:00
+the_good_german,generalizations,xtelevisionshow,televisionshow,662,bkisiel,2012-12-10T14:58:38-05:00
+the_black_seal,generalizations,ntelevisionshow,televisionshow,664,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:47:33-05:00
+the_young_marauders,generalizations,ntelevisionshow,televisionshow,629,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:47:53-05:00
+the_young_marauders,generalizations,-televisionshow,televisionshow,629,bkisiel,2012-12-10T14:50:28-05:00
+the_young_marauders,generalizations,xtelevisionshow,televisionshow,629,bkisiel,2012-12-10T14:50:28-05:00
+the_weekenders,generalizations,ytelevisionshow,televisionshow,650,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:48:14-05:00
+the_othersiders,generalizations,ytelevisionshow,televisionshow,649,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:48:22-05:00
+the_sullivan_family_singers,generalizations,ntelevisionshow,televisionshow,526,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:48:36-05:00
+the_sullivan_family_singers,generalizations,-televisionshow,televisionshow,526,bkisiel,2012-12-10T14:55:01-05:00
+the_sullivan_family_singers,generalizations,xtelevisionshow,televisionshow,526,bkisiel,2012-12-10T14:55:01-05:00
+main,generalizations,ntelevisionshow,televisionshow,198,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:49:00-05:00
+main,generalizations,-televisionshow,televisionshow,198,bkisiel,2012-12-10T15:06:07-05:00
+main,generalizations,xtelevisionshow,televisionshow,198,bkisiel,2012-12-10T15:06:07-05:00
+oprah,generalizations,ntelevisionshow,televisionshow,665,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:49:18-05:00
+tonight_show,generalizations,ntelevisionshow,televisionshow,121,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:49:43-05:00
+beavis_and_butthead,generalizations,ytelevisionshow,televisionshow,222,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:50:19-05:00
+non_profit_organization,generalizations,ntelevisionshow,televisionshow,665,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:50:26-05:00
+non_profit_organization,generalizations,-televisionshow,televisionshow,665,bkisiel,2012-12-10T14:56:20-05:00
+non_profit_organization,generalizations,xtelevisionshow,televisionshow,665,bkisiel,2012-12-10T14:56:20-05:00
+larry_king_live,generalizations,ytelevisionshow,televisionshow,622,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:50:48-05:00
+superboy,generalizations,ytelevisionshow,televisionshow,634,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:51:04-05:00
+beavis___butt_head,generalizations,ytelevisionshow,televisionshow,637,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:51:10-05:00
+bienvenidos,generalizations,ytelevisionshow,televisionshow,662,anonymous-3eb85fe1-a1b82c08-242af1a5,2012-12-09T08:51:35-05:00
+games_rss,generalizations,nboardgame,boardgame,665,anonymous-bb1ea4d3-bbb2d34d-e4056e01,2012-12-09T08:52:29-05:00
+games_rss,generalizations,-boardgame,boardgame,665,bkisiel,2012-12-10T14:56:15-05:00
+games_rss,generalizations,xboardgame,boardgame,665,bkisiel,2012-12-10T14:56:15-05:00
+dogs_version,generalizations,nvertebrate,vertebrate,661,anonymous-bb1ea4d3-bbb2d34d-e4056e01,2012-12-09T08:53:07-05:00
+dogs_version,generalizations,-vertebrate,vertebrate,661,bkisiel,2012-12-10T14:59:23-05:00
+dogs_version,generalizations,xvertebrate,vertebrate,661,bkisiel,2012-12-10T14:59:23-05:00
+john_dennis_daniels,generalizations,ycriminal,criminal,304,anonymous-bb1ea4d3-bbb2d34d-e4056e01,2012-12-09T08:53:33-05:00
+wjwm,generalizations,yradiostation,radiostation,604,anonymous-87cc0cd5-c86e71dd-cde36de4,2012-12-09T15:47:02-05:00
+centipede,generalizations,yinvertebrate,invertebrate,667,anonymous-a58779e5-0d58224e-f6e7d06e,2012-12-09T16:39:13-05:00
+two_useful_sites,generalizations,nparlourgame,parlourgame,665,anonymous-a58779e5-0d58224e-f6e7d06e,2012-12-09T16:39:23-05:00
+two_useful_sites,generalizations,-parlourgame,parlourgame,665,bkisiel,2012-12-10T15:06:10-05:00
+two_useful_sites,generalizations,xparlourgame,parlourgame,665,bkisiel,2012-12-10T15:06:10-05:00
+c_1807,generalizations,yyear,year,661,anonymous-a58779e5-0d58224e-f6e7d06e,2012-12-09T16:39:48-05:00
+democratic_party_east_timor,generalizations,ypoliticalparty,politicalparty,661,anonymous-a58779e5-0d58224e-f6e7d06e,2012-12-09T16:40:38-05:00
+plastic_tube,generalizations,ykitchenitem,kitchenitem,664,anonymous-a58779e5-0d58224e-f6e7d06e,2012-12-09T16:40:43-05:00
+environmental_studies,generalizations,npoliticsissue,politicsissue,662,anonymous-a58779e5-0d58224e-f6e7d06e,2012-12-09T16:41:09-05:00
+environmental_studies,generalizations,yacademicfield,academicfield,565,anonymous-a58779e5-0d58224e-f6e7d06e,2012-12-09T16:41:07-05:00
+abbey_road,generalizations,ymusicalbum,musicalbum,0,anonymous-bbb1ec78-cb58688d-e4056e01,2012-12-09T17:41:10-05:00
+n1896_summer_olympics,generalizations,yolympics,olympics,120,anonymous-761f29fb-693bef9e-242af1a5,2012-12-09T19:14:27-05:00
+earth,generalizations,yplanet,planet,120,anonymous-761f29fb-693bef9e-242af1a5,2012-12-09T19:15:26-05:00
+american_museum_of_natural_history,generalizations,ymuseum,museum,0,anonymous-761f29fb-693bef9e-242af1a5,2012-12-09T19:15:48-05:00
+friday,generalizations,ydayofweek,dayofweek,0,anonymous-761f29fb-693bef9e-242af1a5,2012-12-09T19:15:58-05:00
+baptist,generalizations,yreligion,religion,55,anonymous-761f29fb-693bef9e-242af1a5,2012-12-09T19:16:17-05:00
+nylon_string,generalizations,nmusicinstrument,musicinstrument,662,anonymous-9a549583-bd24e969-8459d33f,2012-12-09T20:55:28-05:00
+word_games,generalizations,nolympics,olympics,664,anonymous-9a549583-bd24e969-8459d33f,2012-12-09T20:55:34-05:00
+word_games,generalizations,-olympics,olympics,664,bkisiel,2012-12-10T14:55:18-05:00
+word_games,generalizations,xolympics,olympics,664,bkisiel,2012-12-10T14:55:18-05:00
+whyl_fm,generalizations,yradiostation,radiostation,661,anonymous-9a549583-bd24e969-8459d33f,2012-12-09T20:55:38-05:00
+star_plaza_hotel,generalizations,yhotel,hotel,661,anonymous-8b28e970-d6a84f28-c1adb762,2012-12-10T06:39:31-05:00
+famous_restaurant,generalizations,nbuilding,building,661,anonymous-8b28e970-d6a84f28-c1adb762,2012-12-10T06:39:48-05:00
+line_title,generalizations,ngeometricshape,geometricshape,665,anonymous-8b28e970-d6a84f28-c1adb762,2012-12-10T06:40:09-05:00
+line_title,generalizations,-geometricshape,geometricshape,665,bkisiel,2012-12-10T14:49:27-05:00
+line_title,generalizations,xgeometricshape,geometricshape,665,bkisiel,2012-12-10T14:49:27-05:00
+financial_planning_officer,generalizations,npoliticaloffice,politicaloffice,541,anonymous-8b28e970-d6a84f28-c1adb762,2012-12-10T06:40:21-05:00
+financial_planning_officer,generalizations,-politicaloffice,politicaloffice,541,bkisiel,2012-12-10T14:49:25-05:00
+financial_planning_officer,generalizations,xpoliticaloffice,politicaloffice,541,bkisiel,2012-12-10T14:49:25-05:00
+porche_transmission_in_a_vw_beetle,generalizations,ninvertebrate,invertebrate,664,anonymous-8b28e970-d6a84f28-c1adb762,2012-12-10T06:40:48-05:00
+porche_transmission_in_a_vw_beetle,generalizations,-invertebrate,invertebrate,664,bkisiel,2012-12-10T14:49:19-05:00
+porche_transmission_in_a_vw_beetle,generalizations,xinvertebrate,invertebrate,664,bkisiel,2012-12-10T14:49:19-05:00
+keban_hotel,generalizations,yhotel,hotel,662,anonymous-8b28e970-d6a84f28-c1adb762,2012-12-10T06:41:25-05:00
+amalgamated_engineering_and_electrical_union,generalizations,ytradeunion,tradeunion,662,anonymous-8b28e970-d6a84f28-c1adb762,2012-12-10T06:41:55-05:00
+attorney_abuse,generalizations,npoliticaloffice,politicaloffice,662,anonymous-8b28e970-d6a84f28-c1adb762,2012-12-10T06:42:05-05:00
+attorney_abuse,generalizations,-politicaloffice,politicaloffice,662,bkisiel,2012-12-10T14:49:28-05:00
+attorney_abuse,generalizations,xpoliticaloffice,politicaloffice,662,bkisiel,2012-12-10T14:49:28-05:00
+fruit_servings,generalizations,nnut,nut,665,anonymous-0f8c713f-a8d0a023-c1564390,2012-12-10T07:43:14-05:00
+fruit_servings,generalizations,nnut,nut,665,anonymous-09c3cb45-82f1c58f-75f01798,2012-12-10T08:38:56-05:00
+fruit_servings,generalizations,nnut,nut,665,anonymous-731a6f72-741a1486-64cf42a3,2012-12-10T20:24:33-05:00
+fruit_servings,generalizations,-nut,nut,665,bkisiel,2012-12-10T14:49:17-05:00
+fruit_servings,generalizations,xnut,nut,665,bkisiel,2012-12-10T14:49:17-05:00
+quality_quartz_engineering,generalizations,ncharactertrait,charactertrait,661,anonymous-1a7de69e-2225cfcc-aebc902f,2012-12-10T09:18:36-05:00
+quality_quartz_engineering,generalizations,-charactertrait,charactertrait,661,bkisiel,2012-12-10T14:49:16-05:00
+quality_quartz_engineering,generalizations,xcharactertrait,charactertrait,661,bkisiel,2012-12-10T14:49:16-05:00
+black_soybean_beans,generalizations,ylegume,legume,662,anonymous-1a7de69e-2225cfcc-aebc902f,2012-12-10T09:18:39-05:00
+machine_government,generalizations,ntool,tool,661,anonymous-53ac9086-f069cb1e-95faaf46,2012-12-10T11:58:21-05:00
+machine_government,generalizations,-tool,tool,661,bkisiel,2012-12-10T14:49:14-05:00
+machine_government,generalizations,xtool,tool,661,bkisiel,2012-12-10T14:49:14-05:00
+budget_code,generalizations,nprogramminglanguage,programminglanguage,665,anonymous-a6d31da8-e5191ef7-8f1c7403,2012-12-10T16:34:49-05:00
+budget_code,generalizations,nprogramminglanguage,programminglanguage,665,anonymous-6febca95-ac4f8f85-ca2d180f,2012-12-10T16:43:25-05:00
+budget_code,generalizations,nprogramminglanguage,programminglanguage,665,anonymous-10d53239-590ea59e-3aad9cca,2012-12-10T16:43:30-05:00
+budget_code,generalizations,nprogramminglanguage,programminglanguage,665,anonymous-859cf44c-44fc04d0-f679dfae,2012-12-11T19:10:52-05:00
+budget_code,generalizations,-programminglanguage,programminglanguage,665,bkisiel,2012-12-14T08:33:38-05:00
+budget_code,generalizations,xprogramminglanguage,programminglanguage,665,bkisiel,2012-12-14T08:33:38-05:00
+cell_agents,generalizations,ncelltype,celltype,665,anonymous-477528ba-690cfbe6-44e90f71,2012-12-10T19:32:43-05:00
+cell_agents,generalizations,-celltype,celltype,665,bkisiel,2012-12-14T08:33:50-05:00
+cell_agents,generalizations,xcelltype,celltype,665,bkisiel,2012-12-14T08:33:50-05:00
+californian_king_snake,generalizations,yreptile,reptile,662,anonymous-a9fd446f-8f37965f-b4966da6,2012-12-11T06:48:08-05:00
+californian_king_snake,generalizations,yreptile,reptile,662,anonymous-859cf44c-44fc04d0-f679dfae,2012-12-11T19:51:29-05:00
+proroxane,generalizations,ndrug,drug,661,anonymous-5e41dc3f-a4298bd2-fe18fa0a,2012-12-11T12:04:44-05:00
+ac_milan,generalizations,ysportsteam,sportsteam,661,anonymous-5e41dc3f-a4298bd2-fe18fa0a,2012-12-11T12:05:21-05:00
+weapons_worth,generalizations,nweapon,weapon,665,anonymous-7d0f579d-9c1b6df3-fe18fa0a,2012-12-11T13:55:53-05:00
+weapons_worth,generalizations,-weapon,weapon,665,bkisiel,2012-12-14T08:33:47-05:00
+weapons_worth,generalizations,xweapon,weapon,665,bkisiel,2012-12-14T08:33:47-05:00
+codes_news,generalizations,nprogramminglanguage,programminglanguage,665,anonymous-54cf7320-eb47b079-5732a784,2012-12-11T15:00:36-05:00
+codes_news,generalizations,-programminglanguage,programminglanguage,665,bkisiel,2012-12-14T08:33:39-05:00
+codes_news,generalizations,xprogramminglanguage,programminglanguage,665,bkisiel,2012-12-14T08:33:39-05:00
+bill_clinton__hillary_lole_clinton_language,generalizations,nlanguage,language,599,anonymous-4f4cbf47-9a8d50a2-e4056e01,2012-12-11T15:28:13-05:00
+bill_clinton__hillary_lole_clinton_language,generalizations,-language,language,599,bkisiel,2012-12-14T08:33:46-05:00
+bill_clinton__hillary_lole_clinton_language,generalizations,xlanguage,language,599,bkisiel,2012-12-14T08:33:46-05:00
+indonesia,generalizations,ycountry,country,487,anonymous-61366459-cb0e5285-242af1a5,2012-12-11T19:44:43-05:00
+auto_repair_tools,generalizations,ytool,tool,661,anonymous-859cf44c-44fc04d0-f679dfae,2012-12-11T19:47:39-05:00
+basins_infrared_automatic_faucet,generalizations,ybathroomitem,bathroomitem,665,anonymous-859cf44c-44fc04d0-f679dfae,2012-12-11T19:53:05-05:00
+chris_clarke,generalizations,ypersonaustralia,personaustralia,247,anonymous-b5192386-fe199b99-7ee58369,2012-12-11T23:46:36-05:00
+hebrew_speakers,generalizations,nconsumerelectronicitem,consumerelectronicitem,667,anonymous-c94f0a3c-1eb0d075-f6e7d06e,2012-12-12T05:15:22-05:00
+hebrew_speakers,generalizations,-consumerelectronicitem,consumerelectronicitem,667,bkisiel,2012-12-14T08:32:36-05:00
+hebrew_speakers,generalizations,xconsumerelectronicitem,consumerelectronicitem,667,bkisiel,2012-12-14T08:32:36-05:00
+russia,countryalsoknownas,"ncountryalsoknownas,country,country",scandinavia,664,anonymous-c94f0a3c-1eb0d075-f6e7d06e,2012-12-12T05:15:47-05:00
+russia,countryalsoknownas,"-countryalsoknownas,,",scandinavia,664,bkisiel,2012-12-14T08:37:25-05:00
+russia,countryalsoknownas,"-countryalsoknownas,country,country",scandinavia,664,bkisiel,2012-12-14T08:37:25-05:00
+mercedes_bentz_dealers,generalizations,nautomobilemaker,automobilemaker,665,anonymous-ef1848cd-40ee3680-d305843a,2012-12-12T06:38:25-05:00
+mercedes_bentz_dealers,generalizations,-automobilemaker,automobilemaker,665,bkisiel,2012-12-14T08:32:35-05:00
+mercedes_bentz_dealers,generalizations,xautomobilemaker,automobilemaker,665,bkisiel,2012-12-14T08:32:35-05:00
+power_food,generalizations,nmlmetric,mlmetric,665,anonymous-7a3d873b-1c6e2b4b-7dbdd8c5,2012-12-12T06:55:49-05:00
+power_food,generalizations,-mlmetric,mlmetric,665,bkisiel,2012-12-14T08:32:31-05:00
+power_food,generalizations,xmlmetric,mlmetric,665,bkisiel,2012-12-14T08:32:31-05:00
+dioxin,chemicalistypeofchemical,"nchemicalistypeofchemical,chemical,chemical",chemicals,664,anonymous-7a3d873b-1c6e2b4b-7dbdd8c5,2012-12-12T06:56:28-05:00
+maple,plantincludeplant,"nplantincludeplant,plant,plant",hard_woods,664,anonymous-7a3d873b-1c6e2b4b-7dbdd8c5,2012-12-12T06:56:37-05:00
+search_engine_watch_blog,generalizations,yblog,blog,662,anonymous-7a3d873b-1c6e2b4b-7dbdd8c5,2012-12-12T06:56:54-05:00
+mercedes_350,generalizations,nautomobilemaker,automobilemaker,665,anonymous-a69757be-f130fa60-fd71b466,2012-12-12T07:02:23-05:00
+mercedes_350,generalizations,-automobilemaker,automobilemaker,665,bkisiel,2012-12-14T08:32:29-05:00
+mercedes_350,generalizations,xautomobilemaker,automobilemaker,665,bkisiel,2012-12-14T08:32:29-05:00
+cuckoos_and_allies,generalizations,nanimal,animal,661,anonymous-93f15102-32ccc545-f6e7d06e,2012-12-12T09:03:57-05:00
+cuckoos_and_allies,generalizations,-animal,animal,661,bkisiel,2012-12-14T08:32:26-05:00
+cuckoos_and_allies,generalizations,xanimal,animal,661,bkisiel,2012-12-14T08:32:26-05:00
+brain_synchronization,generalizations,nbraintissue,braintissue,662,anonymous-77e82e64-116d0d7a-8d4279c4,2012-12-12T13:13:57-05:00
+brain_synchronization,generalizations,-braintissue,braintissue,662,bkisiel,2012-12-14T08:32:38-05:00
+brain_synchronization,generalizations,xbraintissue,braintissue,662,bkisiel,2012-12-14T08:32:38-05:00
+cells_in_bone_marrow_leukocytes,generalizations,ycelltype,celltype,55,anonymous-d285dc11-4e820564-b7c6eb12,2012-12-12T14:50:04-05:00
+spiny_lobster,generalizations,ycrustacean,crustacean,120,anonymous-d285dc11-4e820564-b7c6eb12,2012-12-12T14:50:22-05:00
+november_2_,generalizations,ydate,date,664,anonymous-6f54ce2a-f069cb1e-c62571f8,2012-12-12T15:00:24-05:00
+household_cats,generalizations,yvertebrate,vertebrate,664,anonymous-35f0958a-116d0d7a-8d4279c4,2012-12-12T17:06:05-05:00
+dangers_of_psychedelic_mushrooms,generalizations,nfungus,fungus,664,anonymous-efa72aed-1a0094f2-242af1a5,2012-12-12T18:08:33-05:00
+dangers_of_psychedelic_mushrooms,generalizations,-fungus,fungus,664,bkisiel,2012-12-14T08:32:33-05:00
+dangers_of_psychedelic_mushrooms,generalizations,xfungus,fungus,664,bkisiel,2012-12-14T08:32:33-05:00
+sea_weed,generalizations,nnut,nut,665,anonymous-e66349a7-fca95872-ab4832f4,2012-12-12T21:56:27-05:00
+sea_weed,generalizations,-nut,nut,665,bkisiel,2012-12-14T08:32:27-05:00
+sea_weed,generalizations,xnut,nut,665,bkisiel,2012-12-14T08:32:27-05:00
+ted_bundy,generalizations,ycriminal,criminal,167,anonymous-e66349a7-fca95872-ab4832f4,2012-12-12T22:02:35-05:00
+amino_acid,generalizations,narchaea,archaea,646,anonymous-e66349a7-fca95872-ab4832f4,2012-12-12T22:03:39-05:00
+amino_acid,generalizations,-archaea,archaea,646,bkisiel,2012-12-14T08:32:22-05:00
+amino_acid,generalizations,xarchaea,archaea,646,bkisiel,2012-12-14T08:32:22-05:00
+lisp,generalizations,yprogramminglanguage,programminglanguage,436,anonymous-e66349a7-fca95872-ab4832f4,2012-12-12T22:06:14-05:00
+bean_preparation,generalizations,nlegume,legume,667,anonymous-9bddfb71-a994921e-c62571f8,2012-12-12T23:54:09-05:00
+bean_preparation,generalizations,-legume,legume,667,bkisiel,2012-12-14T08:32:21-05:00
+bean_preparation,generalizations,xlegume,legume,667,bkisiel,2012-12-14T08:32:21-05:00
+mung_beans,generalizations,ylegume,legume,667,anonymous-9bddfb71-a994921e-c62571f8,2012-12-12T23:54:18-05:00
+university_of_cincinnati,generalizations,yuniversity,university,662,anonymous-9bddfb71-a994921e-c62571f8,2012-12-12T23:54:21-05:00
+abc,generalizations,ytelevisionnetwork,televisionnetwork,667,anonymous-efa72aed-1a0094f2-242af1a5,2012-12-13T00:10:45-05:00
+abc,generalizations,ytelevisionnetwork,televisionnetwork,667,anonymous-e5011286-5a5fe398-5d53253d,2012-12-13T00:50:25-05:00
+abc,generalizations,ytelevisionnetwork,televisionnetwork,667,anonymous-a4900cee-116d0d7a-8d4279c4,2012-12-13T06:23:23-05:00
+peter_gavin,generalizations,yperson,person,662,anonymous-335581d4-a8d0a023-77f52f1b,2012-12-13T03:25:12-05:00
+peter_gavin,haswikipediaurl,"yhaswikipediaurl,person,http",//en.wikipedia.org/wiki/Peter%20Gavin%20(Canadian%20politician),658,anonymous-335581d4-a8d0a023-77f52f1b,2012-12-13T03:25:29-05:00
+sr_computer_operator,generalizations,yprofession,profession,662,anonymous-a4900cee-116d0d7a-8d4279c4,2012-12-13T06:19:48-05:00
+chase_manhattan,generalizations,ybank,bank,662,anonymous-a4900cee-116d0d7a-8d4279c4,2012-12-13T06:27:07-05:00
+chase_manhattan,generalizations,ybank,bank,662,anonymous-8203f4f6-ac5d3d65-f6e7d06e,2012-12-13T15:05:30-05:00
+chambersburg_borough_police_department,generalizations,ygovernmentorganization,governmentorganization,662,anonymous-fb069e8b-116d0d7a-8d4279c4,2012-12-13T08:04:16-05:00
+nike_inc,generalizations,nbiotechcompany,biotechcompany,662,anonymous-c95203d3-5166cdb4-279ea147,2012-12-13T08:22:45-05:00
+nike_inc,generalizations,-biotechcompany,biotechcompany,662,bkisiel,2012-12-14T08:31:56-05:00
+nike_inc,generalizations,xbiotechcompany,biotechcompany,662,bkisiel,2012-12-14T08:31:56-05:00
+onion,agriculturalproductcookedwithagriculturalproduct,"yagriculturalproductcookedwithagriculturalproduct,agriculturalproduct,agriculturalproduct",pepper,665,anonymous-c95203d3-5166cdb4-279ea147,2012-12-13T08:23:47-05:00
+tofu,agriculturalproductcutintogeometricshape,"yagriculturalproductcutintogeometricshape,agriculturalproduct,geometricshape",cube,667,anonymous-c95203d3-5166cdb4-279ea147,2012-12-13T08:24:37-05:00
+nitrogen_oxides,chemicalistypeofchemical,"ychemicalistypeofchemical,chemical,chemical",gas,664,anonymous-c95203d3-5166cdb4-279ea147,2012-12-13T08:26:26-05:00
+santa_catarina,cityalsoknownas,"ncityalsoknownas,city,city",rio,667,anonymous-c95203d3-5166cdb4-279ea147,2012-12-13T08:26:46-05:00
+santa_catarina,cityalsoknownas,"-cityalsoknownas,,",rio,667,bkisiel,2012-12-14T08:37:12-05:00
+santa_catarina,cityalsoknownas,"-cityalsoknownas,city,city",rio,667,bkisiel,2012-12-14T08:37:12-05:00
+football,sporthassportsteamposition,"ysporthassportsteamposition,sport,sportsteamposition",fan,667,anonymous-c95203d3-5166cdb4-279ea147,2012-12-13T08:27:45-05:00
+cookie,bakedgoodservedwithbeverage,"ybakedgoodservedwithbeverage,bakedgood,beverage",chocolate,667,anonymous-c95203d3-5166cdb4-279ea147,2012-12-13T08:27:51-05:00
+extra_virgin_olive_oil,beveragemadefrombeverage,"nbeveragemadefrombeverage,beverage,beverage",juice,667,anonymous-c95203d3-5166cdb4-279ea147,2012-12-13T08:29:04-05:00
+extra_virgin_olive_oil,beveragemadefrombeverage,"-beveragemadefrombeverage,,",juice,667,bkisiel,2012-12-14T08:37:18-05:00
+extra_virgin_olive_oil,beveragemadefrombeverage,"-beveragemadefrombeverage,beverage,beverage",juice,667,bkisiel,2012-12-14T08:37:18-05:00
+large_turtle,generalizations,yreptile,reptile,667,anonymous-0395ddcc-72c655c5-b8337ff6,2012-12-13T11:55:45-05:00
+power_sugar,generalizations,nfruit,fruit,665,anonymous-18064fc7-548b2e44-91588326,2012-12-13T15:15:12-05:00
+power_sugar,generalizations,-fruit,fruit,665,bkisiel,2012-12-14T08:32:11-05:00
+power_sugar,generalizations,xfruit,fruit,665,bkisiel,2012-12-14T08:32:11-05:00
+hex_nuts,generalizations,nfruit,fruit,667,anonymous-18064fc7-548b2e44-91588326,2012-12-13T15:16:01-05:00
+hex_nuts,generalizations,-food,fruit,667,bkisiel,2012-12-14T08:32:17-05:00
+beetles_music_downloader,generalizations,ninvertebrate,invertebrate,667,anonymous-5ffe88da-8a54a7a0-b7c6eb12,2012-12-13T17:17:22-05:00
+beetles_music_downloader,generalizations,-animal,invertebrate,667,bkisiel,2012-12-14T08:32:08-05:00
+senator_john_rockefeller,generalizations,ypolitician,politician,664,anonymous-4836e3fe-212eda8f-f37bfda9,2012-12-13T20:12:06-05:00
+shoes_and_sandals,generalizations,yclothing,clothing,665,anonymous-4836e3fe-212eda8f-f37bfda9,2012-12-13T20:12:12-05:00
+mushrooms_and_artichokes_in_cdkitchen,generalizations,nfungus,fungus,664,anonymous-dfdeddac-36b58315-f974840f,2012-12-13T20:29:47-05:00
+mushrooms_and_artichokes_in_cdkitchen,generalizations,-fungus,fungus,664,bkisiel,2012-12-14T08:31:41-05:00
+mushrooms_and_artichokes_in_cdkitchen,generalizations,xfungus,fungus,664,bkisiel,2012-12-14T08:31:41-05:00
+jesus_of_nazareth,generalizations,npersonsouthamerica,personsouthamerica,667,anonymous-35739929-4cdda314-c62571f8,2012-12-13T20:53:41-05:00
+jesus_of_nazareth,generalizations,-personsouthamerica,personsouthamerica,667,bkisiel,2012-12-14T08:32:01-05:00
+jesus_of_nazareth,generalizations,xpersonsouthamerica,personsouthamerica,667,bkisiel,2012-12-14T08:32:01-05:00
+joseph_lawrence,generalizations,ncriminal,criminal,667,anonymous-0b5a2c9b-f198c6a3-9dfda0b0,2012-12-13T22:36:45-05:00
+tomato_pizza,generalizations,nvegetable,vegetable,664,anonymous-70861689-28f0f196-e4056e01,2012-12-14T05:59:58-05:00
+tomato_pizza,generalizations,-vegetable,vegetable,664,bkisiel,2012-12-14T08:30:39-05:00
+tomato_pizza,generalizations,xvegetable,vegetable,664,bkisiel,2012-12-14T08:30:39-05:00
+cleveland_indians,teamplaysincity,"nteamplaysincity,sportsteam,city",boston,667,anonymous-70861689-28f0f196-e4056e01,2012-12-14T06:00:10-05:00
+cleveland_indians,teamplaysincity,"-teamplaysincity,,",boston,667,bkisiel,2012-12-14T08:37:08-05:00
+cleveland_indians,teamplaysincity,"-teamplaysincity,sportsteam,city",boston,667,bkisiel,2012-12-14T08:37:08-05:00
+ski,sportschoolincountry,"nsportschoolincountry,sport,country",iraq_worth,664,anonymous-70861689-28f0f196-e4056e01,2012-12-14T06:00:14-05:00
+ski,sportschoolincountry,-2country,iraq_worth,664,bkisiel,2012-12-14T08:36:54-05:00
+beverages,agriculturalproductincludingagriculturalproduct,"yagriculturalproductincludingagriculturalproduct,agriculturalproduct,agriculturalproduct",milk,665,anonymous-70861689-28f0f196-e4056e01,2012-12-14T06:00:30-05:00
+the_bodyguard__original_soundtrack_album,generalizations,ymusicalbum,musicalbum,667,anonymous-70861689-28f0f196-e4056e01,2012-12-14T06:00:43-05:00
+iraq_worth,generalizations,l-<Iraq&#x20;worth><IRaq>,country,533,bkisiel,2012-12-14T08:37:51-05:00
+tubs,generalizations,ybathroomitem,bathroomitem,662,anonymous-c0a8cea2-7d02fbdd-d7ece0a6,2012-12-14T09:26:43-05:00
+www_crisismanagement_org,generalizations,nmlconference,mlconference,662,anonymous-dd3d9867-108fc1cc-cb89721a,2012-12-14T12:14:03-05:00
+jeff_dean,generalizations,ychef,chef,667,anonymous-73c2cdfa-627a374a-4601b889,2012-12-14T12:56:42-05:00
+dummy1,inverseofmammalsuchasmammal,RIE,concept:dummy2,643,mitchell,2012-12-06T15:42:27-05:00
