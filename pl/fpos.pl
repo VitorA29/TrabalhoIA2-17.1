@@ -567,7 +567,8 @@ clothing(outdoor_shoes).
 clothing(keen_outdoor_shoes).
 clothing(pjs).
 householditem(n20_radio).
-itemfoundinroom,householditem,room(more_radio).
+itemfoundinroom(more_radio).
+householditem(more_radio).
 wallitem(game_clock).
 kitchenitem(quiche_dish).
 wallitem(analogue_clock).
@@ -3498,6 +3499,7 @@ mollusk(rays).
 mollusk(pelagics).
 book(dan_brown).
 url('//en.wikipedia.org/wiki/Alan%20Dargin').
+professor(dan_brown).
 personaustralia(alan_dargin).
 chemical(corn_syrup).
 invertebrate(slugs).
@@ -3506,6 +3508,7 @@ disease(alcoholism).
 emotion(shame).
 disease(addiction).
 url('//en.wikipedia.org/wiki/Joseph%20Filkowski').
+url('//en.wikipedia.org/wiki/Dan_Brown').
 criminal(joseph_filkowski).
 geometricshape(cheeses).
 geometricshape(dice).
@@ -4002,7 +4005,7 @@ scientist(mere_christianity).
 organization(cmu).
 building(wean_hall).
 bombingevent(n70_killed_in_nigeria_bus_blasts).
-time(april_14).
+ttime(april_14).
 earthquakeevent(magnitude_5_4_earthquake_hits_north_taiwan).
 earthquakeevent(taiwan).
 writer(f_scott_fitzgerald).
@@ -4026,7 +4029,7 @@ university(lehigh).
 museum(louvre).
 university(princeton).
 protestevent(kiev_protesters_attack_building_with_police_inside).
-time(night).
+ttime(night).
 earthquakeevent(n2000_nicaragua_earthquake).
 building(houses).
 bombingevent(n1327689011).
@@ -4803,7 +4806,7 @@ product(nokia_1606).
 musicfestival(wormtown_music_festival).
 website(newyork_times).
 newspaper(newyork_times).
-time(n10_00_am).
+ttime(n10_00_am).
 criminal(sarah_jenkins).
 drug(zantac_300).
 biotechcompany(syncom_pharmaceuticals).
@@ -4870,7 +4873,7 @@ bakedgood(pillsbury_grands_buttermilk_biscuits).
 recordlabel(def_jam_records).
 weapon(mustard_gas).
 buildingmaterial(alluminium).
-time(n8_00_p_m_).
+ttime(n8_00_p_m_).
 company(aer_lingus).
 automobilemodel(n2004_buick_rendezvous).
 protein(mitochondrial_ribosomal_protein_l42_isoform_b).
@@ -5230,7 +5233,7 @@ consumerelectronicitem(psp_2).
 videogame(world_of_outlaws__sprint_cars).
 date(n2004_12_07).
 zoo(vyskov_zoo).
-time(n12_30_pm).
+ttime(n12_30_pm).
 terroristorganization(islamic_state_in_iraq).
 videogame(age_of_empires_iii_the_war_chiefs).
 furniture(thin_bed).
@@ -5303,7 +5306,7 @@ river(sand_hollow).
 boardgame(disney_magic_kingdom_game).
 movie(the_incredible_hulk).
 mountainrange(sierra_de_los_comechingones).
-time(n9_00_p_m_).
+ttime(n9_00_p_m_).
 bird(cabanis_s_greenbul).
 magazine(elle_magazine).
 airport(detroit_metro).
@@ -5344,7 +5347,7 @@ bird(gray_headed_robin).
 date(n2007_08_08).
 animal(llama).
 race(japan_golf_tour).
-time(n5_00_pm_est_).
+ttime(n5_00_pm_est_).
 nongovorganization(liberal_international).
 mountainrange(northern_sierra_madre).
 visualizablescene(gardens).
@@ -5358,13 +5361,13 @@ hotel(colonial_motel).
 televisionshow(weird_al_show).
 lake(washington_lake).
 legume(spicy_pickled_beans).
-time(noon_).
+ttime(noon_).
 mediatype(many_newspapers).
 river(pecos_and_devils_river).
 weapon(arms).
 date(n2006_04_30).
 visualizableobject(home_made_salads).
-time(n7_00).
+ttime(n7_00).
 kitchenitem(fire_pan).
 visualartform(female_body_oil_painting).
 person(carlos).
@@ -6297,7 +6300,7 @@ beverage(white_ale).
 mammal(bears).
 musicartist(taylor_swift).
 female(elizabeth_woodville).
-time(n5_25_p_m_).
+ttime(n5_25_p_m_).
 politicsissue(education_commission_of).
 officeitem(envlope).
 videogamesystem(dreamcast_console).
@@ -6460,7 +6463,7 @@ grain(maize).
 crimeorcharge(additional_count).
 beverage(chrysanthemum_pu_erh_tea).
 wallitem(specialty_clock).
-time(n1_8_p_m_).
+ttime(n1_8_p_m_).
 eventoutcome(immigration_success).
 musicsong(they_sail_d_away).
 bacteria(sphingomonas_sp__lb126).
@@ -6799,9 +6802,9 @@ clothing(boys_shorty_pajamas).
 bird(acorn_woodpecker).
 jobposition(nursing).
 actor(glenn_close).
-time(n1_45_p_m_).
+ttime(n1_45_p_m_).
 boardgame(scrabble_game).
-time(n10_a_m_).
+ttime(n10_a_m_).
 personaustralia(raymond_niaura).
 mountain(rosevere_point).
 sportsteam(russell_sage_college).

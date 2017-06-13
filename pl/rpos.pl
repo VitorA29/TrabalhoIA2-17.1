@@ -363,6 +363,7 @@ languageofuniversity(english,long_island_university).
 bookwriter(about_a_boy,nick_hornby).
 academicfieldsuchasacademicfield(biology,ecology).
 haswikipediaurl(legend_of_mana,'//en.wikipedia.org/wiki/Legend%20of%20Mana').
+haswikipediaurl(dan_brown,'https://en.wikipedia.org/wiki/Dan_Brown').
 countrylocatedingeopoliticallocation(tonga,countries).
 sportsgameteam(world_cup,france).
 sportsgameteam(world_cup,croatia).
