@@ -884,6 +884,7 @@ musicianplaysinstrument(itzhak_perlman,violin).
 musicianplaysinstrument(joshua_bell,violin).
 politicianholdsoffice(president_chirac,president).
 personhascitizenship(leonardo_boff,brazil).
+personhascitizenship(jewel,brazil).
 musicianplaysinstrument(james_hetfield,guitar).
 leaguestadiums(nba,fedex_forum).
 worksfor(balmer,microsoft).
