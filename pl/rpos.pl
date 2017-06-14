@@ -315,9 +315,9 @@ emotionassociatedwithdisease(depression,medications).
 emotionassociatedwithdisease(anxiety,anxiety_disorders).
 languageofcity(arabic,cairo).
 plantrepresentemotion(flowers,love).
-plantrepresentemotion(orchids,love).
 plantrepresentemotion(pansies,love).
 plantrepresentemotion(roses,love).
+plantrepresentemotion(orchids,happiness___joy).
 plantincludeplant(trees,coconut_trees).
 emotionassociatedwithdisease(phobia,disorder).
 sportsgameteam(championship,pittsburgh_steelers).
@@ -363,7 +363,9 @@ languageofuniversity(english,long_island_university).
 bookwriter(about_a_boy,nick_hornby).
 academicfieldsuchasacademicfield(biology,ecology).
 haswikipediaurl(legend_of_mana,'//en.wikipedia.org/wiki/Legend%20of%20Mana').
-haswikipediaurl(dan_brown,'https://en.wikipedia.org/wiki/Dan_Brown').
+haswikipediaurl(dan_brown,'//en.wikipedia.org/wiki/Dan_Brown').
+haswikipediaurl(da_vinci_code,'//en.wikipedia.org/wiki/The_Da_Vinci_Code').
+automobilemakerdealersincountry(volkswagen,germany).
 countrylocatedingeopoliticallocation(tonga,countries).
 sportsgameteam(world_cup,france).
 sportsgameteam(world_cup,croatia).
@@ -1551,6 +1553,7 @@ visualartistartmovement(vincent_van_gogh,postimpressionism).
 clothingtogowithclothing(starched_white_shirt,tie).
 eventdate(hurricane_agnes,june_1972).
 criminalarrestedincountry(fernandinho_beira_mar,brazil).
+criminalarrestedincountry(jose_do_telhado,portugal).
 foodcancausedisease(beer,blood_pressure).
 furniturefoundinroom(bed,suites).
 itemfoundinroom(bed,suite).
@@ -1702,7 +1705,7 @@ cityliesonriver(abbeville,somme).
 haswikipediaurl(arnaud_montebourg,'//en.wikipedia.org/wiki/Arnaud%20Montebourg').
 statelocatedingeopoliticallocation(indiana,u_s_).
 lakeinstate(hamilton_lake,indiana).
-citycapitalofcountry(berlin_berlin,germany).
+citycapitalofcountry(berlin,germany).
 istallerthan(home,children).
 countryalsoknownas(singapore,republic).
 countryalsoknownas(republic,singapore).
@@ -1741,6 +1744,7 @@ sportsgamesport(n1918_world_series,baseball).
 organizationheadquarteredincity(kalw,san_francisco).
 sportsgamescore(season_opener,0-1).
 sportschoolincountry(football,britain).
+sportschoolincountry(football,turkey).
 hobbiessuchashobbies(summer_activities,fishing).
 sportsgamesport(first_world_series,baseball).
 bookwriter(redwall,brian_jacques).
