@@ -1295,7 +1295,7 @@ disease(anxiety_disorders).
 emotion(anxiety).
 city(cairo).
 city(arabic).
-emotion(flowers).
+emotion(love).
 emotion(orchids).
 emotion(pansies).
 emotion(roses).
@@ -2850,6 +2850,7 @@ race(gp_de_l_industrie_du_marbre).
 olympics(in_the_1952_winter_olympics).
 cardgame(holdemtexas).
 chemical(calcium_stearoyl_2_lactylate).
+url('//en.wikipedia.org/wiki/The_Da_Vinci_Code').
 country(u_s_a____new_mexico).
 candy(hershey_s_kiss).
 attraction(maine_state_aquarium).
@@ -4227,7 +4228,7 @@ sportsgame(n1958_world_series).
 country(new_zealand).
 sport(squash).
 country(turkey).
-country(ankara).
+city(ankara).
 nut(horse_chestnut).
 nut(trees).
 country(israel).
@@ -4437,6 +4438,7 @@ clothing(starched_white_shirt).
 dateliteral(june_1972).
 event(hurricane_agnes).
 criminal(fernandinho_beira_mar).
+criminal(jose_do_telhado).
 disease(blood_pressure).
 food(beer).
 room(suites).
@@ -5824,7 +5826,7 @@ url('//en.wikipedia.org/wiki/Arnaud%20Montebourg').
 model(arnaud_montebourg).
 geopoliticallocation(u_s_).
 lake(hamilton_lake).
-country(berlin_berlin).
+city(berlin).
 everypromotedthing(children).
 country(hsbc).
 awardtrophytournament(world_series).
