@@ -3,8 +3,6 @@
 ## Realizar consultas em uma base de dados.
 Base de dados usada: [NELL](https://pt.wikipedia.org/wiki/Minimax).
 
-Compilador usado: [YAP COMPILER](https://www.dcc.fc.up.pt/~vsc/Yap/).
-
 ## Grupo
 - Max Fratane.
 - Erick Grilo.
