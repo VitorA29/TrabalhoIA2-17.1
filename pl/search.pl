@@ -1,7 +1,3 @@
-
-PROLOG
-
-
 %%%%% Basic depth first path algorithm in PROLOG %%%%%%%
 %%%
 %%% This is one of the example programs from the textbook:
