@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/27065774/depth-first-search-algorithm-prolog?rq=1
+https://www.cs.unm.edu/~luger/ai-final/code/PROLOG.depth.html
