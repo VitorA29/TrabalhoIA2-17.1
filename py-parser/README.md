@@ -1,2 +1,2 @@
-# TrabalhoIA2-17.1
-2º Trabalho IA
+# Parser
+Parser, feito em python, para extrair os fatos e relações das tabelas no formato .csv.
