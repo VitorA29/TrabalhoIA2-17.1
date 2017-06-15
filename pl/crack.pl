@@ -1,5 +1,5 @@
 import:-
-    csv_read_file('D:/Arquivos/Documents/GitHub/TrabalhoIA2-17.1/999.csv', Data, [functor(mov)]),
+    csv_read_file('999.csv', Data, [functor(mov)]),
 maplist(assert, Data).
 
 go(Start, Goal) :-
