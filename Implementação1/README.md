@@ -4,6 +4,9 @@ Primeira implementação do trabalho.
 Foi a nossa primeira interpretação, talvez errônea, do enunciado do trabalho.
 Basicamente, escrevemos consultas sobre a base de dados.
 
+Para a execução das consultas, consulte o consult-me.pl, usando o YAP.
+Em seguida, execute alguma das consultas a seguir.
+
 ## pl 
 Possui os arquivos .pl com a nossa knowledge base.
 O arquivo questions.pl possui as perguntas que serão realizadas sobre a KB.
