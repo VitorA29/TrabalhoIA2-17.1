@@ -4,6 +4,15 @@ Primeira implementação do trabalho.
 Foi a nossa primeira interpretação, talvez errônea, do enunciado do trabalho.
 Basicamente, escrevemos consultas sobre a base de dados.
 
+## pl 
+Possui os arquivos .pl com a nossa knowledge base.
+O arquivo questions.pl possui as perguntas que serão realizadas sobre a KB.
+
+## py-parser
+Parser feito em python para gerar a KB a partir do arquivo ,csv.
+
+## Consultas
+
 1. Os escritores que escreveram pelo menos um livro e também são professores.
 ``` prolog
 writer(X), professor(X), bookwriter(Y,X).
