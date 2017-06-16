@@ -1,7 +1,7 @@
 # Segundo trabalho da disciplina de Inteligência Artificial 2017.1.
 
 ## Realizar consultas em uma base de dados.
-Base de dados usada: [NELL](https://pt.wikipedia.org/wiki/Minimax).
+Base de dados usada: [NELL](http://rtw.ml.cmu.edu/rtw/kbbrowser/).
 
 ## Grupo
 - Max Fratane.
