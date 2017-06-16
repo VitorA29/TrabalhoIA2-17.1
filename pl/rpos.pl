@@ -164,7 +164,7 @@ rel(english,languageofuniversity,long_island_university).
 rel(about_a_boy,bookwriter,nick_hornby).
 rel(biology,academicfieldsuchasacademicfield,ecology).
 rel(legend_of_mana,haswikipediaurl,'//en.wikipedia.org/wiki/Legend%20of%20Mana').
-rel(tonga,countrylocatedingeopoliticallocation,countries).
+%rel(tonga,countrylocatedingeopoliticallocation,countries).
 rel(world_cup,sportsgameteam,brazil).
 rel(world_cup,sportsgameteam,france).
 rel(world_cup,sportsgameteam,croatia).
@@ -282,7 +282,7 @@ rel(key_biscayne,citylocatedinstate,florida).
 rel(hiroshima,citylocatedincountry,japan).
 rel(alberta,statehascapital,edmonton).
 rel(tripoli,citycapitalofcountry,libya).
-rel(portugal,countrylocatedingeopoliticallocation,europe).
+%rel(portugal,countrylocatedingeopoliticallocation,europe).
 rel(liberia,countrycurrency,dollars).
 rel(santa_ana,citylocatedinstate,california).
 rel(rangoon,citycapitalofcountry,burma).
@@ -328,10 +328,10 @@ rel(caracas,citycapitalofcountry,venezuela).
 rel(little_falls,cityliesonriver,mississippi).
 rel(lake_tahoe,citylocatedinstate,california).
 rel(colorado_city,citylocatedinstate,colorado).
-rel(austria,countrylocatedingeopoliticallocation,europe).
+%rel(austria,countrylocatedingeopoliticallocation,europe).
 rel(calabasas,citylocatedinstate,california).
 rel(dacca,citycapitalofcountry,bangladesh).
-rel(brasil,countrylocatedingeopoliticallocation,countries).
+%rel(brasil,countrylocatedingeopoliticallocation,countries).
 rel(niedersachsen,statelocatedingeopoliticallocation,germany).
 rel(texas,statelocatedincountry,united_state).
 rel(fishers,subpartof,indiana).
@@ -555,7 +555,7 @@ rel(antonin_scalia,politicianusmemberofpoliticalgroup,supreme_court).
 rel(barak_obama,politicianholdsoffice,president).
 rel(barak_obama,politicianholdsoffice,senator).
 rel(barak_obama,politicianholdsoffice,senators).
-rel(egypt,countrylocatedingeopoliticallocation,countries).
+%rel(egypt,countrylocatedingeopoliticallocation,countries).
 rel(steven_spielberg,directordirectedmovie,jaws).
 rel(steven_spielberg,directordirectedmovie,jurassic_park).
 rel(new_dehli,citylocatedincountry,india).
@@ -2367,7 +2367,7 @@ rel(taronga_zoo,zooincity,sydney).
 rel(abbott_northwestern_hospital,hospitalincity,minneapolis).
 rel(kansas,organizationhiredperson,self).
 rel(great_britain,countrycurrency,pounds).
-rel(the_philippines,countrylocatedingeopoliticallocation,southeast_asia).
+%rel(the_philippines,countrylocatedingeopoliticallocation,southeast_asia).
 rel(siege_of_mount_hiei,haswikipediaurl,'//en.wikipedia.org/wiki/Siege%20of%20Mount%20Hiei').
 rel(levi_johnston,personhasage,18).
 rel(taiwan,locationofearthquake,magnitude_5_4_earthquake_hits_north_taiwan).
@@ -2391,7 +2391,7 @@ rel(sfo,airportincity,san_francisco).
 rel(first_place,agentparticipatedinevent,standings).
 rel(new_orleans_hornets,teamplaysincity,new_orleans).
 rel(moldova,countrycurrency,leu).
-rel(__america,countrylocatedingeopoliticallocation,countries).
+%rel(__america,countrylocatedingeopoliticallocation,countries).
 rel(alaska,statehascapital,juneau).
 rel(john,persondiedatage,2).
 rel(westminster_abbey,placeofworshippracticesreligion,christianity).
@@ -5958,7 +5958,7 @@ rel(english,languageofuniversity,long_island_university).
 rel(about_a_boy,bookwriter,nick_hornby).
 rel(biology,academicfieldsuchasacademicfield,ecology).
 rel(legend_of_mana,haswikipediaurl,'//en.wikipedia.org/wiki/Legend%20of%20Mana').
-rel(tonga,countrylocatedingeopoliticallocation,countries).
+%rel(tonga,countrylocatedingeopoliticallocation,countries).
 rel(world_cup,sportsgameteam,croatia).
 rel(eragon,bookwriter,christopher_paolini).
 rel(eragon,bookwriter,paolini).
@@ -6069,7 +6069,7 @@ rel(hinsdale,citylocatedinstate,illinois).
 rel(key_biscayne,citylocatedinstate,florida).
 rel(hiroshima,citylocatedincountry,japan).
 rel(tripoli,citycapitalofcountry,libya).
-rel(portugal,countrylocatedingeopoliticallocation,europe).
+%rel(portugal,countrylocatedingeopoliticallocation,europe).
 rel(liberia,countrycurrency,dollars).
 rel(santa_ana,citylocatedinstate,california).
 rel(rangoon,citycapitalofcountry,burma).
@@ -6114,10 +6114,10 @@ rel(caracas,citycapitalofcountry,venezuela).
 rel(little_falls,cityliesonriver,mississippi).
 rel(lake_tahoe,citylocatedinstate,california).
 rel(colorado_city,citylocatedinstate,colorado).
-rel(austria,countrylocatedingeopoliticallocation,europe).
+%rel(austria,countrylocatedingeopoliticallocation,europe).
 rel(calabasas,citylocatedinstate,california).
 rel(dacca,citycapitalofcountry,bangladesh).
-rel(brasil,countrylocatedingeopoliticallocation,countries).
+%rel(brasil,countrylocatedingeopoliticallocation,countries).
 rel(niedersachsen,statelocatedingeopoliticallocation,germany).
 rel(texas,statelocatedincountry,united_state).
 rel(fishers,subpartof,indiana).
@@ -6336,7 +6336,7 @@ rel(antonin_scalia,politicianusmemberofpoliticalgroup,supreme_court).
 rel(barak_obama,politicianholdsoffice,president).
 rel(barak_obama,politicianholdsoffice,senator).
 rel(barak_obama,politicianholdsoffice,senators).
-rel(egypt,countrylocatedingeopoliticallocation,countries).
+%rel(egypt,countrylocatedingeopoliticallocation,countries).
 rel(steven_spielberg,directordirectedmovie,jaws).
 rel(steven_spielberg,directordirectedmovie,jurassic_park).
 rel(new_dehli,citylocatedincountry,india).
@@ -8020,7 +8020,7 @@ rel(coffee,agriculturalproductcamefromcountry,us).
 rel(mount_gambier,generalizations,visualizablescene).
 rel(creatures,animalsuchasinvertebrate,crustaceans).
 rel(vegetable_oils,agriculturalproductincludingagriculturalproduct,canola_oil).
-rel(india,countrylocatedingeopoliticallocation,asia).
+%rel(india,countrylocatedingeopoliticallocation,asia).
 rel(jason_collins,generalizations,male).
 rel(rugby,sportschoolincountry,argentina).
 rel(tarantulas,arthropodandotherarthropod,spiders).
@@ -8953,5 +8953,7 @@ rel(american_spectator,generalizations,publication).
 rel(american_spectator,generalizations,website).
 rel(mount_everest,generalizations,mountain).
 rel(acid_oxidation,generalizations,chemical).
-rel(m,r,c).
-rel(n,f,k).
+
+go(X,Y):-(\+(X=Y)),write(X),write(":e:\n"),rel(X,Z,_),write(Z),write(":r:\n"),rel(Y,Z,_),write(Y),write(":e:\n"),!.
+go(X,Y):-write(X),write(":e:\n"),rel(X,Z,V),write(Z),write(":r:\n"),write(V),write(":v:\n"),rel(Y,W,V),write(W),write(":r:\n"),write(Y),write(":e:\n"),\+(X=Y),!.
+go(X,Y):-write(X),write(":e:\n"),rel(X,Z,K),write(Z),write(":r:\n"),write(K),write(":v:\n"),rel(W,M,K),write(M),write(":r:\n"),write(W),write(":e:\n"),go(W,Y).
