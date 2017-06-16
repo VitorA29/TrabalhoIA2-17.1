@@ -1,10 +1,20 @@
-# Segundo trabalho da disciplina de Inteligência Artificial 2017.1.
+# Tabelas
+Todas as bases de conhecimento que extraímos em Prolog, e que as consultas serão feitas.
 
-## Realizar consultas em uma base de dados.
-Base de dados usada: [NELL](https://pt.wikipedia.org/wiki/Minimax).
+## Compilador
+[YAP COMPILER](https://www.dcc.fc.up.pt/~vsc/Yap/)
 
-## Grupo
-- Max Fratane.
-- Erick Grilo.
-- Vitor Araújo.
-- Vitor Lourenço.
+### questions
+Consultas que serão realizadas na base de dados.
+
+### rneg
+Negações das relações.
+
+### fneg
+Negações dos fatos.
+
+### fpos
+Fatos.
+
+### rpos
+Relações.
