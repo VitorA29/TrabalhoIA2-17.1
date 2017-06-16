@@ -1,1 +1,1 @@
-# Segunda interpretação.
+# Segunda implementação.
